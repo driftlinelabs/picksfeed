@@ -1,0 +1,793 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assured Deals – Best Amazon India Deals</title>
+    <meta name="description" content="Discover the best curated deals from Amazon India. Honest reviews, top picks, and exclusive finds updated daily.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #0a0a0f;
+            --surface: #13131a;
+            --surface2: #1c1c27;
+            --border: #2a2a3a;
+            --accent: #f0a500;
+            --accent2: #ff6b35;
+            --text: #f0eff4;
+            --muted: #7c7c9a;
+            --card-glow: rgba(240, 165, 0, 0.08);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        html { scroll-behavior: smooth; }
+
+        body {
+            background: var(--bg);
+            color: var(--text);
+            font-family: 'DM Sans', sans-serif;
+            font-weight: 300;
+            overflow-x: hidden;
+        }
+
+        /* ── NOISE TEXTURE OVERLAY ── */
+        body::before {
+            content: '';
+            position: fixed;
+            inset: 0;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.04'/%3E%3C/svg%3E");
+            pointer-events: none;
+            z-index: 0;
+            opacity: 0.4;
+        }
+
+        /* ── HEADER ── */
+        header {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: rgba(10, 10, 15, 0.85);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid var(--border);
+            padding: 0 2rem;
+        }
+
+        .header-inner {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            height: 64px;
+        }
+
+        .logo {
+            font-family: 'Syne', sans-serif;
+            font-weight: 800;
+            font-size: 1.4rem;
+            letter-spacing: -0.03em;
+            color: var(--text);
+            text-decoration: none;
+        }
+
+        .logo span {
+            color: var(--accent);
+        }
+
+        nav {
+            display: flex;
+            gap: 2rem;
+            align-items: center;
+        }
+
+        nav a {
+            color: var(--muted);
+            text-decoration: none;
+            font-size: 0.9rem;
+            font-weight: 400;
+            transition: color 0.2s;
+        }
+
+        nav a:hover { color: var(--text); }
+
+        .nav-cta {
+            background: var(--accent);
+            color: #000 !important;
+            padding: 0.45rem 1.1rem;
+            border-radius: 6px;
+            font-weight: 500 !important;
+            font-size: 0.85rem !important;
+        }
+
+        /* ── HERO ── */
+        .hero {
+            position: relative;
+            padding: 7rem 2rem 5rem;
+            text-align: center;
+            overflow: hidden;
+        }
+
+        .hero-glow {
+            position: absolute;
+            top: -100px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 600px;
+            height: 400px;
+            background: radial-gradient(ellipse, rgba(240,165,0,0.12) 0%, transparent 70%);
+            pointer-events: none;
+        }
+
+        .hero-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: var(--surface2);
+            border: 1px solid var(--border);
+            border-radius: 100px;
+            padding: 0.35rem 1rem;
+            font-size: 0.8rem;
+            color: var(--muted);
+            margin-bottom: 2rem;
+            animation: fadeUp 0.6s ease both;
+        }
+
+        .hero-badge .dot {
+            width: 6px;
+            height: 6px;
+            background: #22c55e;
+            border-radius: 50%;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.5; transform: scale(1.3); }
+        }
+
+        h1 {
+            font-family: 'Syne', sans-serif;
+            font-weight: 800;
+            font-size: clamp(2.5rem, 6vw, 4.5rem);
+            line-height: 1.05;
+            letter-spacing: -0.04em;
+            margin-bottom: 1.5rem;
+            animation: fadeUp 0.6s 0.1s ease both;
+        }
+
+        h1 em {
+            font-style: normal;
+            background: linear-gradient(135deg, var(--accent), var(--accent2));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .hero-sub {
+            color: var(--muted);
+            font-size: 1.1rem;
+            max-width: 480px;
+            margin: 0 auto 2.5rem;
+            line-height: 1.7;
+            animation: fadeUp 0.6s 0.2s ease both;
+        }
+
+        .hero-actions {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            flex-wrap: wrap;
+            animation: fadeUp 0.6s 0.3s ease both;
+        }
+
+        .btn-primary {
+            background: var(--accent);
+            color: #000;
+            padding: 0.8rem 2rem;
+            border-radius: 8px;
+            font-weight: 500;
+            text-decoration: none;
+            font-size: 0.95rem;
+            transition: all 0.2s;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .btn-primary:hover {
+            background: #ffc020;
+            transform: translateY(-1px);
+            box-shadow: 0 8px 24px rgba(240,165,0,0.3);
+        }
+
+        .btn-secondary {
+            background: var(--surface2);
+            color: var(--text);
+            padding: 0.8rem 2rem;
+            border-radius: 8px;
+            font-weight: 400;
+            text-decoration: none;
+            font-size: 0.95rem;
+            border: 1px solid var(--border);
+            transition: all 0.2s;
+        }
+
+        .btn-secondary:hover {
+            border-color: var(--accent);
+            color: var(--accent);
+        }
+
+        @keyframes fadeUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* ── STATS BAR ── */
+        .stats {
+            border-top: 1px solid var(--border);
+            border-bottom: 1px solid var(--border);
+            background: var(--surface);
+            padding: 1.5rem 2rem;
+        }
+
+        .stats-inner {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: center;
+            gap: 4rem;
+            flex-wrap: wrap;
+        }
+
+        .stat {
+            text-align: center;
+        }
+
+        .stat-num {
+            font-family: 'Syne', sans-serif;
+            font-weight: 700;
+            font-size: 1.6rem;
+            color: var(--accent);
+            letter-spacing: -0.03em;
+        }
+
+        .stat-label {
+            font-size: 0.8rem;
+            color: var(--muted);
+            margin-top: 0.2rem;
+        }
+
+        /* ── MAIN CONTENT ── */
+        main {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 4rem 2rem;
+            position: relative;
+            z-index: 1;
+        }
+
+        .section-header {
+            display: flex;
+            align-items: baseline;
+            justify-content: space-between;
+            margin-bottom: 2rem;
+        }
+
+        .section-title {
+            font-family: 'Syne', sans-serif;
+            font-weight: 700;
+            font-size: 1.5rem;
+            letter-spacing: -0.03em;
+        }
+
+        .section-title span {
+            color: var(--accent);
+        }
+
+        .section-meta {
+            font-size: 0.85rem;
+            color: var(--muted);
+        }
+
+        /* ── FILTER TABS ── */
+        .filters {
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 2.5rem;
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            color: var(--muted);
+            padding: 0.4rem 1rem;
+            border-radius: 100px;
+            font-size: 0.82rem;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-family: 'DM Sans', sans-serif;
+        }
+
+        .filter-btn:hover,
+        .filter-btn.active {
+            background: var(--accent);
+            color: #000;
+            border-color: var(--accent);
+            font-weight: 500;
+        }
+
+        /* ── DEALS GRID ── */
+        .deals-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .deal-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            overflow: hidden;
+            transition: all 0.3s ease;
+            position: relative;
+            animation: fadeUp 0.5s ease both;
+        }
+
+        .deal-card:hover {
+            transform: translateY(-4px);
+            border-color: rgba(240,165,0,0.4);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.4), 0 0 0 1px rgba(240,165,0,0.1);
+        }
+
+        .deal-card::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: var(--card-glow);
+            opacity: 0;
+            transition: opacity 0.3s;
+            pointer-events: none;
+            border-radius: 16px;
+        }
+
+        .deal-card:hover::before { opacity: 1; }
+
+        .card-image {
+            width: 100%;
+            height: 200px;
+            object-fit: contain;
+            background: #1a1a24;
+            padding: 1.5rem;
+            display: block;
+        }
+
+        .card-image-placeholder {
+            width: 100%;
+            height: 200px;
+            background: linear-gradient(135deg, #1a1a24, #1e1e2e);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 3rem;
+        }
+
+        .card-body {
+            padding: 1.25rem;
+        }
+
+        .card-category {
+            font-size: 0.72rem;
+            font-weight: 500;
+            color: var(--accent);
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            margin-bottom: 0.5rem;
+        }
+
+        .card-title {
+            font-family: 'Syne', sans-serif;
+            font-weight: 600;
+            font-size: 1rem;
+            line-height: 1.4;
+            margin-bottom: 0.75rem;
+            color: var(--text);
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .card-rating {
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
+            margin-bottom: 0.75rem;
+        }
+
+        .stars {
+            color: var(--accent);
+            font-size: 0.85rem;
+            letter-spacing: 1px;
+        }
+
+        .rating-count {
+            font-size: 0.78rem;
+            color: var(--muted);
+        }
+
+        .card-desc {
+            font-size: 0.85rem;
+            color: var(--muted);
+            line-height: 1.6;
+            margin-bottom: 1.25rem;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .card-footer {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding-top: 1rem;
+            border-top: 1px solid var(--border);
+        }
+
+        .card-date {
+            font-size: 0.75rem;
+            color: var(--muted);
+        }
+
+        .check-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            background: var(--accent);
+            color: #000;
+            padding: 0.5rem 1.1rem;
+            border-radius: 6px;
+            font-size: 0.82rem;
+            font-weight: 500;
+            text-decoration: none;
+            transition: all 0.2s;
+            font-family: 'DM Sans', sans-serif;
+        }
+
+        .check-btn:hover {
+            background: #ffc020;
+            transform: translateY(-1px);
+        }
+
+        .check-btn svg {
+            width: 12px;
+            height: 12px;
+        }
+
+        /* ── EMPTY STATE ── */
+        .empty-state {
+            grid-column: 1 / -1;
+            text-align: center;
+            padding: 5rem 2rem;
+            color: var(--muted);
+        }
+
+        .empty-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            display: block;
+        }
+
+        .empty-state h3 {
+            font-family: 'Syne', sans-serif;
+            font-size: 1.2rem;
+            color: var(--text);
+            margin-bottom: 0.5rem;
+        }
+
+        /* ── AFFILIATE DISCLOSURE ── */
+        .disclosure {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-left: 3px solid var(--accent);
+            border-radius: 8px;
+            padding: 1rem 1.5rem;
+            margin-bottom: 3rem;
+            font-size: 0.82rem;
+            color: var(--muted);
+            line-height: 1.6;
+        }
+
+        .disclosure strong {
+            color: var(--text);
+        }
+
+        /* ── FOOTER ── */
+        footer {
+            border-top: 1px solid var(--border);
+            background: var(--surface);
+            padding: 3rem 2rem;
+            position: relative;
+            z-index: 1;
+        }
+
+        .footer-inner {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+
+        .footer-left .logo {
+            font-size: 1.2rem;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .footer-left p {
+            font-size: 0.82rem;
+            color: var(--muted);
+            max-width: 300px;
+            line-height: 1.6;
+        }
+
+        .footer-links {
+            display: flex;
+            gap: 1.5rem;
+        }
+
+        .footer-links a {
+            color: var(--muted);
+            text-decoration: none;
+            font-size: 0.85rem;
+            transition: color 0.2s;
+        }
+
+        .footer-links a:hover { color: var(--accent); }
+
+        .footer-bottom {
+            max-width: 1200px;
+            margin: 2rem auto 0;
+            padding-top: 1.5rem;
+            border-top: 1px solid var(--border);
+            font-size: 0.78rem;
+            color: var(--muted);
+            text-align: center;
+            line-height: 1.7;
+        }
+
+        /* ── RESPONSIVE ── */
+        @media (max-width: 640px) {
+            .stats-inner { gap: 2rem; }
+            .section-header { flex-direction: column; gap: 0.5rem; }
+            nav { display: none; }
+            .footer-inner { flex-direction: column; align-items: flex-start; }
+        }
+    </style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header>
+    <div class="header-inner">
+        <a href="#" class="logo">Assured<span>Deals</span></a>
+        <nav>
+            <a href="#deals">All Deals</a>
+            <a href="#about">About</a>
+        </nav>
+    </div>
+</header>
+
+<!-- HERO -->
+<section class="hero">
+    <div class="hero-glow"></div>
+    <div class="hero-badge">
+        <span class="dot"></span>
+        New deals added daily
+    </div>
+    <h1>The Best Deals on<br><em>Amazon India</em></h1>
+    <p class="hero-sub">Finding good deals on Amazon India, so you don't have to.</p>
+    <div class="hero-actions">
+        <a href="#deals" class="btn-primary">
+            Browse Deals
+            <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+        </a>
+        
+    </div>
+</section>
+
+<!-- STATS -->
+<div class="stats">
+    <div class="stats-inner">
+        <div class="stat">
+            <div class="stat-num" id="deal-count">0</div>
+            <div class="stat-label">Deals Posted</div>
+        </div>
+        <div class="stat">
+            <div class="stat-num">Daily</div>
+            <div class="stat-label">New Updates</div>
+        </div>
+        <div class="stat">
+            <div class="stat-num">100%</div>
+            <div class="stat-label">Free to Use</div>
+        </div>
+    </div>
+</div>
+
+<!-- MAIN -->
+<main id="deals">
+
+    <!-- DISCLOSURE -->
+    <div class="disclosure">
+        <strong>Affiliate Disclosure:</strong> AssuredDeals is a participant in the Amazon Associates Programme. As an Amazon Associate, we earn from qualifying purchases. This means we may earn a small commission when you click our links and make a purchase, at no extra cost to you.
+    </div>
+
+    <div class="section-header">
+        <h2 class="section-title">Latest <span>Deals</span></h2>
+        <span class="section-meta" id="deal-meta">Loading...</span>
+    </div>
+
+    <!-- FILTER TABS -->
+    <div class="filters" id="filters">
+        <button class="filter-btn active" onclick="filterDeals('all', this)">All</button>
+        <button class="filter-btn" onclick="filterDeals('Electronics', this)">Electronics</button>
+        <button class="filter-btn" onclick="filterDeals('Fashion', this)">Fashion</button>
+        <button class="filter-btn" onclick="filterDeals('Home', this)">Home & Kitchen</button>
+        <button class="filter-btn" onclick="filterDeals('Beauty', this)">Beauty</button>
+        <button class="filter-btn" onclick="filterDeals('Sports', this)">Sports</button>
+    </div>
+
+    <!-- DEALS GRID -->
+    <div class="deals-grid" id="deals-grid">
+        <div class="empty-state">
+            <span class="empty-icon">🛍️</span>
+            <h3>Deals coming soon!</h3>
+            <p>Our bot is busy finding the best deals for you. Check back shortly or join our Telegram channel for instant updates.</p>
+        </div>
+    </div>
+
+</main>
+
+<!-- ABOUT SECTION -->
+<section id="about" style="background: var(--surface); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); padding: 4rem 2rem; position: relative; z-index: 1;">
+    <div style="max-width: 700px; margin: 0 auto; text-align: center;">
+        <h2 style="font-family: 'Syne', sans-serif; font-weight: 700; font-size: 1.8rem; letter-spacing: -0.03em; margin-bottom: 1rem;">About <span style="color: var(--accent);">Assured Deals</span></h2>
+        <p style="color: var(--muted); line-height: 1.8; font-size: 0.95rem;">We curate the best deals from Amazon India every single day. We curate the best deals from Amazon India every single day and share them here for free — so you can shop smarter without spending hours searching.</p>
+        <a href="https://t.me/assureddeals" target="_blank" class="btn-primary" style="margin-top: 2rem; display: inline-flex;">
+            Join our Telegram Channel
+        </a>
+    </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+    <div class="footer-inner">
+        <div class="footer-left">
+            <a href="#" class="logo">Assured<span style="color:var(--accent)">Deals</span></a>
+            <p>Curated Amazon India deals, updated daily. Always free, always honest.</p>
+        </div>
+        <div class="footer-links">
+            <a href="#deals">Deals</a>
+            <a href="#about">About</a>
+            <a href="https://t.me/assureddeals" target="_blank">Telegram</a>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        AssuredDeals is a participant in the Amazon Associates Programme (India). We earn from qualifying purchases.<br>
+        Prices and availability are subject to change. Always verify on Amazon before purchasing.<br>
+        © 2026 AssuredDeals. Not affiliated with Amazon.
+    </div>
+</footer>
+
+<script>
+    // Deal data store — will be populated by the bot later
+    let allDeals = [];
+
+    function renderDeals(deals) {
+        const grid = document.getElementById('deals-grid');
+        const meta = document.getElementById('deal-meta');
+        const counter = document.getElementById('deal-count');
+
+        counter.textContent = allDeals.length;
+        meta.textContent = `${deals.length} deal${deals.length !== 1 ? 's' : ''} found`;
+
+        if (deals.length === 0) {
+            grid.innerHTML = `
+                <div class="empty-state">
+                    <span class="empty-icon">🔍</span>
+                    <h3>No deals in this category yet</h3>
+                    <p>Check back soon or browse all deals.</p>
+                </div>`;
+            return;
+        }
+
+        grid.innerHTML = deals.map((deal, i) => `
+            <div class="deal-card" style="animation-delay: ${i * 0.05}s">
+                ${deal.image
+                    ? `<img src="${deal.image}" alt="${deal.title}" class="card-image" onerror="this.style.display='none'">`
+                    : `<div class="card-image-placeholder">${getCategoryEmoji(deal.category)}</div>`
+                }
+                <div class="card-body">
+                    <div class="card-category">${deal.category || 'General'}</div>
+                    <h3 class="card-title">${deal.title}</h3>
+                    ${deal.rating ? `
+                    <div class="card-rating">
+                        <span class="stars">${getStars(deal.rating)}</span>
+                        <span class="rating-count">${deal.rating}/5</span>
+                    </div>` : ''}
+                    <p class="card-desc">${deal.description}</p>
+                    <div class="card-footer">
+                        <span class="card-date">${formatDate(deal.date)}${deal.time ? " · " + deal.time : ""}</span>
+                        <a href="${deal.link}" target="_blank" rel="nofollow sponsored" class="check-btn">
+                            Check on Amazon
+                            <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M3 8h10M9 4l4 4-4 4"/></svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        `).join('');
+    }
+
+    function filterDeals(category, btn) {
+        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        const filtered = category === 'all'
+            ? allDeals
+            : allDeals.filter(d => d.category === category);
+        renderDeals(filtered);
+    }
+
+    function getStars(rating) {
+        const full = Math.floor(rating);
+        const half = rating % 1 >= 0.5 ? 1 : 0;
+        const empty = 5 - full - half;
+        return '★'.repeat(full) + (half ? '½' : '') + '☆'.repeat(empty);
+    }
+
+    function getCategoryEmoji(cat) {
+        const map = { Electronics: '⚡', Fashion: '👗', Home: '🏠', Beauty: '✨', Sports: '🏃' };
+        return map[cat] || '🛍️';
+    }
+
+    function formatDate(dateStr) {
+        if (!dateStr) return '';
+        const d = new Date(dateStr);
+        return d.toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' });
+    }
+
+    // Animate deal counter
+    function animateCounter(el, target) {
+        let current = 0;
+        const step = Math.ceil(target / 30);
+        const timer = setInterval(() => {
+            current = Math.min(current + step, target);
+            el.textContent = current;
+            if (current >= target) clearInterval(timer);
+        }, 40);
+    }
+
+    // Load deals from deals.json (populated by the bot)
+    async function loadDeals() {
+        try {
+            const res = await fetch('deals.json?t=' + Date.now());
+            if (res.ok) {
+                allDeals = await res.json();
+                renderDeals(allDeals);
+                animateCounter(document.getElementById('deal-count'), allDeals.length);
+            }
+        } catch (e) {
+            // No deals yet — empty state is shown by default
+            document.getElementById('deal-meta').textContent = 'No deals yet';
+        }
+    }
+
+    loadDeals();
+</script>
+</body>
+</html>
