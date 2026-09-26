@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790410946,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0GQVC8MPD?tag=assudeal-21",
+    "date": "2026-09-26T13:52:26.779646+05:30",
+    "time": "01:52 PM IST"
+  },
+  {
     "id": 1790410215,
     "title": "POND'S BB+ Cream, Instant Spot Coverage + Light (30g)",
     "description": "The POND'S BB+ Cream, Instant Spot Coverage + Light (30g) delivers effective care suitable for Indian skin types. Check ingredients and reviews on Amazon India.",
@@ -1086,17 +1097,6 @@
     "category": "General",
     "link": "https://www.amazon.in/dp/B0DBDTG3TW?tag=assudeal-21",
     "date": "2026-09-25T00:28:49.754436+05:30",
-    "time": "12:28 AM IST"
-  },
-  {
-    "id": 1790276287,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0DT1CLB8L?tag=assudeal-21",
-    "date": "2026-09-25T00:28:07.960211+05:30",
     "time": "12:28 AM IST"
   }
 ]
