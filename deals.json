@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790412314,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0GSZWF3C1?tag=assudeal-21",
+    "date": "2026-09-26T14:15:14.039784+05:30",
+    "time": "02:15 PM IST"
+  },
+  {
     "id": 1790411476,
     "title": "Biotique White Orchid Brightening Body Lotion (180ml)",
     "description": "The Biotique White Orchid Brightening Body Lotion (180ml) delivers effective care suitable for Indian skin types. Check ingredients and reviews on Amazon India.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B07P9P45KP?tag=assudeal-21",
     "date": "2026-09-25T00:29:08.280623+05:30",
     "time": "12:29 AM IST"
-  },
-  {
-    "id": 1790276339,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0CCVKZPN7?tag=assudeal-21",
-    "date": "2026-09-25T00:28:59.302758+05:30",
-    "time": "12:28 AM IST"
   }
 ]
