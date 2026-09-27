@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790531554,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0G5PN6HHY?tag=assudeal-21",
+    "date": "2026-09-27T23:22:34.265095+05:30",
+    "time": "11:22 PM IST"
+  },
+  {
     "id": 1790531065,
     "title": "KOTTY Womens Cotton Solid Trousers",
     "description": "The KOTTY Womens Cotton Solid Trousers is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0BRG22WV9?tag=assudeal-21",
     "date": "2026-09-26T10:20:37.877652+05:30",
     "time": "10:20 AM IST"
-  },
-  {
-    "id": 1790398038,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0753L8CGZ?tag=assudeal-21",
-    "date": "2026-09-26T10:17:18.610176+05:30",
-    "time": "10:17 AM IST"
   }
 ]
