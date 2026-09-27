@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790489741,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B08G8RC2GW?tag=assudeal-21",
+    "date": "2026-09-27T11:45:41.525671+05:30",
+    "time": "11:45 AM IST"
+  },
+  {
     "id": 1790486951,
     "title": "Amazon Deal",
     "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B09CTKV2GG?tag=assudeal-21",
     "date": "2026-09-25T19:55:52.701923+05:30",
     "time": "07:55 PM IST"
-  },
-  {
-    "id": 1790345910,
-    "title": "GRAB : Aristocrat 8-Wheel 55cm Trolley .",
-    "description": "The GRAB : Aristocrat 8-Wheel 55cm Trolley . is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0FMF1MZTP?tag=assudeal-21",
-    "date": "2026-09-25T19:48:30.350567+05:30",
-    "time": "07:48 PM IST"
   }
 ]
