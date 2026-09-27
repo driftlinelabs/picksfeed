@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790484335,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B00CBRJ1SM?tag=assudeal-21",
+    "date": "2026-09-27T10:15:35.172732+05:30",
+    "time": "10:15 AM IST"
+  },
+  {
     "id": 1790482499,
     "title": "Puma Unisex-Adult Running Shoe",
     "description": "The Puma Unisex-Adult Running Shoe is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B00MTKV7GA?tag=assudeal-21",
     "date": "2026-09-25T19:23:35.555936+05:30",
     "time": "07:23 PM IST"
-  },
-  {
-    "id": 1790344084,
-    "title": "VW 43 inches Full HD Smart QLED Android TV",
-    "description": "The VW 43 inches Full HD Smart QLED Android TV is a reliable choice packed with features for Indian consumers. Check full specs and reviews on Amazon India.",
-    "image": null,
-    "rating": null,
-    "category": "Electronics",
-    "link": "https://www.amazon.in/dp/B0GX52LD7V?tag=assudeal-21",
-    "date": "2026-09-25T19:18:04.938421+05:30",
-    "time": "07:18 PM IST"
   }
 ]
