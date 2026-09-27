@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790515587,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0D155CKDZ?tag=assudeal-21",
+    "date": "2026-09-27T18:56:27.499389+05:30",
+    "time": "06:56 PM IST"
+  },
+  {
     "id": 1790513128,
     "title": "iFFALCON Smart Google TV’s.",
     "description": "The iFFALCON Smart Google TV’s. is a reliable choice packed with features for Indian consumers. Check full specs and reviews on Amazon India.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B00RV73XDG?tag=assudeal-21",
     "date": "2026-09-26T00:35:17.749867+05:30",
     "time": "12:35 AM IST"
-  },
-  {
-    "id": 1790362915,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0H44SVPZ9?tag=assudeal-21",
-    "date": "2026-09-26T00:31:55.281972+05:30",
-    "time": "12:31 AM IST"
   }
 ]
