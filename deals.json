@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790482361,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0C4FJ8T8W?tag=assudeal-21",
+    "date": "2026-09-27T09:42:41.918494+05:30",
+    "time": "09:42 AM IST"
+  },
+  {
     "id": 1790482291,
     "title": "Ariel Complete Detergent Powder - 4kg | Removes 100 Tough Stains in 1 wash | Fragrance that lasts for 2 weeks | For Semi Auto Washing Machine &amp; Bucket Wash",
     "description": "The Ariel Complete Detergent Powder - 4kg | Removes 100 Tough Stains in 1 wash | Fragrance that lasts for 2 weeks | For Semi Auto Washing Machine &amp; Bucket Wash is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0FYFGJRVB?tag=assudeal-21",
     "date": "2026-09-25T19:08:32.469454+05:30",
     "time": "07:08 PM IST"
-  },
-  {
-    "id": 1790343277,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0FJ1ZR9QM?tag=assudeal-21",
-    "date": "2026-09-25T19:04:37.286051+05:30",
-    "time": "07:04 PM IST"
   }
 ]
