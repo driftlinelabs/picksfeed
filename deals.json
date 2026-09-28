@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790620578,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0DJ9LVXN9?tag=assudeal-21",
+    "date": "2026-09-29T00:06:18.145233+05:30",
+    "time": "12:06 AM IST"
+  },
+  {
     "id": 1790620508,
     "title": "Havells iSense Smart Monoblock Touch Panel",
     "description": "The Havells iSense Smart Monoblock Touch Panel is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B09FSV7SLL?tag=assudeal-21",
     "date": "2026-09-27T12:49:10.783546+05:30",
     "time": "12:49 PM IST"
-  },
-  {
-    "id": 1790493460,
-    "title": "ZEBRONICS Wireless Mouse, 2.4GHz",
-    "description": "The ZEBRONICS Wireless Mouse, 2.4GHz is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0FF4XBM5N?tag=assudeal-21",
-    "date": "2026-09-27T12:47:40.950989+05:30",
-    "time": "12:47 PM IST"
   }
 ]
