@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790606000,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0F38DP3T4?tag=assudeal-21",
+    "date": "2026-09-28T20:03:20.073358+05:30",
+    "time": "08:03 PM IST"
+  },
+  {
     "id": 1790604511,
     "title": ": Ponds Bright Beauty Face Wash 200 gm .",
     "description": "The : Ponds Bright Beauty Face Wash 200 gm . delivers effective care suitable for Indian skin types. Check ingredients and reviews on Amazon India.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0H3P35WCC?tag=assudeal-21",
     "date": "2026-09-27T07:04:45.436861+05:30",
     "time": "07:04 AM IST"
-  },
-  {
-    "id": 1790449881,
-    "title": ": Himalaya Vitamin C Orange Face Wash 100ml (Pack Of 2) .",
-    "description": "The : Himalaya Vitamin C Orange Face Wash 100ml (Pack Of 2) . delivers effective care suitable for Indian skin types. Check ingredients and reviews on Amazon India.",
-    "image": null,
-    "rating": null,
-    "category": "Beauty",
-    "link": "https://www.amazon.in/dp/B0CNTDQWCK?tag=assudeal-21",
-    "date": "2026-09-27T00:41:21.873156+05:30",
-    "time": "12:41 AM IST"
   }
 ]
