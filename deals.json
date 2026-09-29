@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790704447,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0FVLMC8PB?tag=assudeal-21",
+    "date": "2026-09-29T23:24:07.028425+05:30",
+    "time": "11:24 PM IST"
+  },
+  {
     "id": 1790704321,
     "title": "Puma Mens City Sneaker",
     "description": "The Puma Mens City Sneaker is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0CQ8JVK2D?tag=assudeal-21",
     "date": "2026-09-28T13:25:27.450479+05:30",
     "time": "01:25 PM IST"
-  },
-  {
-    "id": 1790581117,
-    "title": "Bata Women's Galaxy Slipper .",
-    "description": "The Bata Women's Galaxy Slipper . is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0CY43YJKT?tag=assudeal-21",
-    "date": "2026-09-28T13:08:37.969090+05:30",
-    "time": "01:08 PM IST"
   }
 ]
