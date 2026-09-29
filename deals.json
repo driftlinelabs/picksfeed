@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790673784,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B09M6CQWV4?tag=assudeal-21",
+    "date": "2026-09-29T14:53:04.368755+05:30",
+    "time": "02:53 PM IST"
+  },
+  {
     "id": 1790673700,
     "title": "Loot 4257",
     "description": "The Loot 4257 is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0D2L7N6DC?tag=assudeal-21",
     "date": "2026-09-27T21:57:13.741198+05:30",
     "time": "09:57 PM IST"
-  },
-  {
-    "id": 1790525351,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0H8SRLVVJ?tag=assudeal-21",
-    "date": "2026-09-27T21:39:11.743469+05:30",
-    "time": "09:39 PM IST"
   }
 ]
