@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790685442,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0FSYPX4KV?tag=assudeal-21",
+    "date": "2026-09-29T18:07:22.712661+05:30",
+    "time": "06:07 PM IST"
+  },
+  {
     "id": 1790685393,
     "title": "Pepe Jeans Women Jeans",
     "description": "This Pepe Jeans Women Jeans combines style and comfort for everyday wear. See size options and customer photos on Amazon.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B00WUDP0PA?tag=assudeal-21",
     "date": "2026-09-28T07:14:11.325802+05:30",
     "time": "07:14 AM IST"
-  },
-  {
-    "id": 1790535407,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0CJ9QHTN9?tag=assudeal-21",
-    "date": "2026-09-28T00:26:47.121070+05:30",
-    "time": "12:26 AM IST"
   }
 ]
