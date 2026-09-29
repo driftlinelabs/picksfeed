@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790706858,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0FGQKM377?tag=assudeal-21",
+    "date": "2026-09-30T00:04:18.462830+05:30",
+    "time": "12:04 AM IST"
+  },
+  {
     "id": 1790706712,
     "title": "Amazon Deal",
     "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B00AFL9RG2?tag=assudeal-21",
     "date": "2026-09-28T15:19:27.335516+05:30",
     "time": "03:19 PM IST"
-  },
-  {
-    "id": 1790586872,
-    "title": "American Tourister Large Size Trolley Bag *",
-    "description": "This American Tourister Large Size Trolley Bag * combines style and comfort for everyday wear. See size options and customer photos on Amazon.",
-    "image": null,
-    "rating": null,
-    "category": "Fashion",
-    "link": "https://www.amazon.in/dp/B0F5HL713C?tag=assudeal-21",
-    "date": "2026-09-28T14:44:32.830169+05:30",
-    "time": "02:44 PM IST"
   }
 ]
