@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790678416,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0CNXJCQ9D?tag=assudeal-21",
+    "date": "2026-09-29T16:10:16.326626+05:30",
+    "time": "04:10 PM IST"
+  },
+  {
     "id": 1790677107,
     "title": "Maybelline New York Eyeshadow Palette,6.4g .",
     "description": "The Maybelline New York Eyeshadow Palette,6.4g . is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0CJ9QHTN9?tag=assudeal-21",
     "date": "2026-09-27T23:14:25.227336+05:30",
     "time": "11:14 PM IST"
-  },
-  {
-    "id": 1790530353,
-    "title": "SPARX Women Mesh Walking Shoes",
-    "description": "This SPARX Women Mesh Walking Shoes combines style and comfort for everyday wear. See size options and customer photos on Amazon.",
-    "image": "https://m.media-amazon.com/images/I/31JDiW8CFnL.jpg",
-    "rating": 4.1,
-    "category": "Fashion",
-    "link": "https://www.amazon.in/dp/B0F8VN9QYV?tag=assudeal-21",
-    "date": "2026-09-27T23:02:33.672102+05:30",
-    "time": "11:02 PM IST"
   }
 ]
