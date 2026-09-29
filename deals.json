@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790684379,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0B6C4BRGB?tag=assudeal-21",
+    "date": "2026-09-29T17:49:39.358201+05:30",
+    "time": "05:49 PM IST"
+  },
+  {
     "id": 1790682854,
     "title": "Bajaj Pulsar Rs200 Motorcycle .",
     "description": "Designed for performance, the Bajaj Pulsar Rs200 Motorcycle . is ideal for fitness enthusiasts. See full specs on Amazon India.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B078JDNZJ8?tag=assudeal-21",
     "date": "2026-09-28T00:09:24.168575+05:30",
     "time": "12:09 AM IST"
-  },
-  {
-    "id": 1790534004,
-    "title": "Nivia Adjustable Knee Support .",
-    "description": "The Nivia Adjustable Knee Support . is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B00IAPKZ0W?tag=assudeal-21",
-    "date": "2026-09-28T00:03:24.587782+05:30",
-    "time": "12:03 AM IST"
   }
 ]
