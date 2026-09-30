@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790788422,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0BHBBCTQD?tag=assudeal-21",
+    "date": "2026-09-30T22:43:42.795199+05:30",
+    "time": "10:43 PM IST"
+  },
+  {
     "id": 1790787789,
     "title": "Apply coupon",
     "description": "The Apply coupon is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0FSYPX4KV?tag=assudeal-21",
     "date": "2026-09-29T18:07:22.712661+05:30",
     "time": "06:07 PM IST"
-  },
-  {
-    "id": 1790685393,
-    "title": "Pepe Jeans Women Jeans",
-    "description": "This Pepe Jeans Women Jeans combines style and comfort for everyday wear. See size options and customer photos on Amazon.",
-    "image": null,
-    "rating": null,
-    "category": "Fashion",
-    "link": "https://www.amazon.in/dp/B0DT3XBPKD?tag=assudeal-21",
-    "date": "2026-09-29T18:06:33.016211+05:30",
-    "time": "06:06 PM IST"
   }
 ]
