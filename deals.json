@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790790237,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B09JSX2BVQ?tag=assudeal-21",
+    "date": "2026-09-30T23:13:57.514236+05:30",
+    "time": "11:13 PM IST"
+  },
+  {
     "id": 1790790096,
     "title": "Amazon Deal",
     "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0DWX6XK1F?tag=assudeal-21",
     "date": "2026-09-29T19:55:12.492267+05:30",
     "time": "07:55 PM IST"
-  },
-  {
-    "id": 1790691229,
-    "title": "Presto! Non-Woven Kitchen Towel Roll | 50 Pulls (Pack of 2)",
-    "description": "Upgrade your home with the Presto! Non-Woven Kitchen Towel Roll | 50 Pulls (Pack of 2), designed for functionality and modern aesthetics. View all features on Amazon India.",
-    "image": null,
-    "rating": null,
-    "category": "Home",
-    "link": "https://www.amazon.in/dp/B0DKFT4FVB?tag=assudeal-21",
-    "date": "2026-09-29T19:43:49.123866+05:30",
-    "time": "07:43 PM IST"
   }
 ]
