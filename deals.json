@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790756466,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B08CSTVJ1K?tag=assudeal-21",
+    "date": "2026-09-30T13:51:06.780781+05:30",
+    "time": "01:51 PM IST"
+  },
+  {
     "id": 1790756313,
     "title": "Zebronics HDMI 2.0 Cable",
     "description": "The Zebronics HDMI 2.0 Cable is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0DJ9LVXN9?tag=assudeal-21",
     "date": "2026-09-29T00:06:18.145233+05:30",
     "time": "12:06 AM IST"
-  },
-  {
-    "id": 1790620508,
-    "title": "Havells iSense Smart Monoblock Touch Panel",
-    "description": "The Havells iSense Smart Monoblock Touch Panel is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0F7R15N5X?tag=assudeal-21",
-    "date": "2026-09-29T00:05:08.093375+05:30",
-    "time": "12:05 AM IST"
   }
 ]
