@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790790267,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0DRK4QKJQ?tag=assudeal-21",
+    "date": "2026-09-30T23:14:27.876770+05:30",
+    "time": "11:14 PM IST"
+  },
+  {
     "id": 1790790237,
     "title": "Amazon Deal",
     "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B09ZBDX3PG?tag=assudeal-21",
     "date": "2026-09-29T19:58:06.880768+05:30",
     "time": "07:58 PM IST"
-  },
-  {
-    "id": 1790691912,
-    "title": "Spacewood Engineered Wood Wardrobe",
-    "description": "The Spacewood Engineered Wood Wardrobe is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0DWX6XK1F?tag=assudeal-21",
-    "date": "2026-09-29T19:55:12.492267+05:30",
-    "time": "07:55 PM IST"
   }
 ]
