@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790793904,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B09WHY9MSM?tag=assudeal-21",
+    "date": "2026-10-01T00:15:04.557156+05:30",
+    "time": "12:15 AM IST"
+  },
+  {
     "id": 1790793835,
     "title": "POND'S Bright Beauty Spot Less Fairness Face Wash",
     "description": "The POND'S Bright Beauty Spot Less Fairness Face Wash delivers effective care suitable for Indian skin types. Check ingredients and reviews on Amazon India.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B099WQ8J9H?tag=assudeal-21",
     "date": "2026-09-29T23:12:29.573287+05:30",
     "time": "11:12 PM IST"
-  },
-  {
-    "id": 1790703290,
-    "title": "Axe Long Lasting Perfume for Men 100ml",
-    "description": "The Axe Long Lasting Perfume for Men 100ml is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0FQNVH37W?tag=assudeal-21",
-    "date": "2026-09-29T23:04:50.965319+05:30",
-    "time": "11:04 PM IST"
   }
 ]
