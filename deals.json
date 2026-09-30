@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790750698,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0FC26KNVF?tag=assudeal-21",
+    "date": "2026-09-30T12:14:58.022758+05:30",
+    "time": "12:14 PM IST"
+  },
+  {
     "id": 1790750489,
     "title": "Amazon Deal",
     "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B00791CQ5K?tag=assudeal-21",
     "date": "2026-09-28T22:14:23.827164+05:30",
     "time": "10:14 PM IST"
-  },
-  {
-    "id": 1790612981,
-    "title": "Solimo Study Table .",
-    "description": "The Solimo Study Table . is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0G5R1173H?tag=assudeal-21",
-    "date": "2026-09-28T21:59:41.252939+05:30",
-    "time": "09:59 PM IST"
   }
 ]
