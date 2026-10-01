@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790875661,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0GYB7KB8Q?tag=assudeal-21",
+    "date": "2026-10-01T22:57:41.236353+05:30",
+    "time": "10:57 PM IST"
+  },
+  {
     "id": 1790875527,
     "title": "Amazon Deal",
     "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/9334514868?tag=assudeal-21",
     "date": "2026-09-30T20:33:23.508498+05:30",
     "time": "08:33 PM IST"
-  },
-  {
-    "id": 1790779697,
-    "title": "Ant Wired Keyboard and Mouse Combo",
-    "description": "The Ant Wired Keyboard and Mouse Combo is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0GK19D1X2?tag=assudeal-21",
-    "date": "2026-09-30T20:18:17.752207+05:30",
-    "time": "08:18 PM IST"
   }
 ]
