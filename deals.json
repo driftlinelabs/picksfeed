@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790873491,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0FLYFYT23?tag=assudeal-21",
+    "date": "2026-10-01T22:21:31.757348+05:30",
+    "time": "10:21 PM IST"
+  },
+  {
     "id": 1790872582,
     "title": "Ant Globe 18 Wired Optical Mouse, USB Type C Computer Mouse with Adjustable 1600 DPI Sensor, Ergonomic Lightweight Corded Office Mouse with 1.2m Cable for Laptop, PC, Desktop,Windows,Mac &amp;Linux, Black",
     "description": "The Ant Globe 18 Wired Optical Mouse, USB Type C Computer Mouse with Adjustable 1600 DPI Sensor, Ergonomic Lightweight Corded Office Mouse with 1.2m Cable for Laptop, PC, Desktop,Windows,Mac &amp;Linux, Black is a reliable choice packed with features for Indian consumers. Check full specs and reviews on Amazon India.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0765YP2DT?tag=assudeal-21",
     "date": "2026-09-30T19:25:17.133758+05:30",
     "time": "07:25 PM IST"
-  },
-  {
-    "id": 1790775321,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0BH8TDFWJ?tag=assudeal-21",
-    "date": "2026-09-30T19:05:21.171536+05:30",
-    "time": "07:05 PM IST"
   }
 ]
