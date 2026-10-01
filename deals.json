@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790883236,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0D1GMY4KV?tag=assudeal-21",
+    "date": "2026-10-02T01:03:56.083411+05:30",
+    "time": "01:03 AM IST"
+  },
+  {
     "id": 1790883194,
     "title": ": Sunsilk Shampoo, 1 Ltr",
     "description": "The : Sunsilk Shampoo, 1 Ltr delivers effective care suitable for Indian skin types. Check ingredients and reviews on Amazon India.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0H4TXXJZG?tag=assudeal-21",
     "date": "2026-09-30T22:21:10.469853+05:30",
     "time": "10:21 PM IST"
-  },
-  {
-    "id": 1790786903,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B097GQ52WC?tag=assudeal-21",
-    "date": "2026-09-30T22:18:23.545276+05:30",
-    "time": "10:18 PM IST"
   }
 ]
