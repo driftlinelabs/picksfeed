@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790923049,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0D97K6JP7?tag=assudeal-21",
+    "date": "2026-10-02T12:07:29.318887+05:30",
+    "time": "12:07 PM IST"
+  },
+  {
     "id": 1790920254,
     "title": "Guess Square 32mm Champagne Dial Analog Women Watch .",
     "description": "This Guess Square 32mm Champagne Dial Analog Women Watch . combines style and comfort for everyday wear. See size options and customer photos on Amazon.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B07XS18J5N?tag=assudeal-21",
     "date": "2026-10-01T00:16:33.307191+05:30",
     "time": "12:16 AM IST"
-  },
-  {
-    "id": 1790793904,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B09WHY9MSM?tag=assudeal-21",
-    "date": "2026-10-01T00:15:04.557156+05:30",
-    "time": "12:15 AM IST"
   }
 ]
