@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790917260,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0HHPBTRTX?tag=assudeal-21",
+    "date": "2026-10-02T10:31:00.677158+05:30",
+    "time": "10:31 AM IST"
+  },
+  {
     "id": 1790915499,
     "title": "TCL 1.5 Ton 5 Star Split Inverter AC",
     "description": "The TCL 1.5 Ton 5 Star Split Inverter AC is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1086,17 +1097,6 @@
     "category": "General",
     "link": "https://www.amazon.in/dp/B08D88ZHLD?tag=assudeal-21",
     "date": "2026-10-01T00:07:37.841282+05:30",
-    "time": "12:07 AM IST"
-  },
-  {
-    "id": 1790793442,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0H1WWZT8H?tag=assudeal-21",
-    "date": "2026-10-01T00:07:22.423644+05:30",
     "time": "12:07 AM IST"
   }
 ]
