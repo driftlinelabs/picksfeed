@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790963088,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B09YV5TMZH?tag=assudeal-21",
+    "date": "2026-10-02T23:14:48.718219+05:30",
+    "time": "11:14 PM IST"
+  },
+  {
     "id": 1790961734,
     "title": "STRIDERS Toy Story Scooter 2 Wheel",
     "description": "The STRIDERS Toy Story Scooter 2 Wheel is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0D1GKXWQR?tag=assudeal-21",
     "date": "2026-10-01T14:55:02.115223+05:30",
     "time": "02:55 PM IST"
-  },
-  {
-    "id": 1790846495,
-    "title": "realme Bluetooth Neckband",
-    "description": "The realme Bluetooth Neckband is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0DVC5P58G?tag=assudeal-21",
-    "date": "2026-10-01T14:51:35.487988+05:30",
-    "time": "02:51 PM IST"
   }
 ]
