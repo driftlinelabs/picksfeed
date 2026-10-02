@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790957084,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B08L4VJYSF?tag=assudeal-21",
+    "date": "2026-10-02T21:34:44.318933+05:30",
+    "time": "09:34 PM IST"
+  },
+  {
     "id": 1790955984,
     "title": ": Wild Stone Ultra Sensual Perfume, 30ml .",
     "description": "The : Wild Stone Ultra Sensual Perfume, 30ml . is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B01N780ZEL?tag=assudeal-21",
     "date": "2026-10-01T14:02:58.822812+05:30",
     "time": "02:02 PM IST"
-  },
-  {
-    "id": 1790843465,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0F48HVMP2?tag=assudeal-21",
-    "date": "2026-10-01T14:01:05.266567+05:30",
-    "time": "02:01 PM IST"
   }
 ]
