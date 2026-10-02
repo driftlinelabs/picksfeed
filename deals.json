@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790931243,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0HH9CYSBK?tag=assudeal-21",
+    "date": "2026-10-02T14:24:03.592681+05:30",
+    "time": "02:24 PM IST"
+  },
+  {
     "id": 1790929414,
     "title": "Crompton 1200mm BLDC Ceiling Fan",
     "description": "The Crompton 1200mm BLDC Ceiling Fan is a reliable choice packed with features for Indian consumers. Check full specs and reviews on Amazon India.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0FNCMY16K?tag=assudeal-21",
     "date": "2026-10-01T00:23:15.021611+05:30",
     "time": "12:23 AM IST"
-  },
-  {
-    "id": 1790794325,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0FRST4BHS?tag=assudeal-21",
-    "date": "2026-10-01T00:22:05.473679+05:30",
-    "time": "12:22 AM IST"
   }
 ]
