@@ -1,5 +1,16 @@
 [
   {
+    "id": 1790950415,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0FQNR672L?tag=assudeal-21",
+    "date": "2026-10-02T19:43:35.685517+05:30",
+    "time": "07:43 PM IST"
+  },
+  {
     "id": 1790950008,
     "title": "Apply  Coupon",
     "description": "The Apply  Coupon is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0GK19D1X2?tag=assudeal-21",
     "date": "2026-10-01T09:55:32.520961+05:30",
     "time": "09:55 AM IST"
-  },
-  {
-    "id": 1790827845,
-    "title": "Adidas Mens Running Shoes",
-    "description": "This Adidas Mens Running Shoes combines style and comfort for everyday wear. See size options and customer photos on Amazon.",
-    "image": null,
-    "rating": null,
-    "category": "Fashion",
-    "link": "https://www.amazon.in/dp/B0DZCVTLS8?tag=assudeal-21",
-    "date": "2026-10-01T09:40:45.275409+05:30",
-    "time": "09:40 AM IST"
   }
 ]
