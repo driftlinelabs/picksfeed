@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791050201,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0GXWCFTYM?tag=assudeal-21",
+    "date": "2026-10-03T23:26:41.189718+05:30",
+    "time": "11:26 PM IST"
+  },
+  {
     "id": 1791050020,
     "title": "Samsung Single Door Refrigerator, 223L .",
     "description": "The Samsung Single Door Refrigerator, 223L . is a reliable choice packed with features for Indian consumers. Check full specs and reviews on Amazon India.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0DV9W54KD?tag=assudeal-21",
     "date": "2026-10-02T01:04:55.549135+05:30",
     "time": "01:04 AM IST"
-  },
-  {
-    "id": 1790883236,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0D1GMY4KV?tag=assudeal-21",
-    "date": "2026-10-02T01:03:56.083411+05:30",
-    "time": "01:03 AM IST"
   }
 ]
