@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791045329,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0HF5DPP1K?tag=assudeal-21",
+    "date": "2026-10-03T22:05:29.607668+05:30",
+    "time": "10:05 PM IST"
+  },
+  {
     "id": 1791042151,
     "title": "Hitachi 1.5 Ton 5 Star Inverter Split AC",
     "description": "The Hitachi 1.5 Ton 5 Star Inverter Split AC is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B07BH3RKL4?tag=assudeal-21",
     "date": "2026-10-02T01:01:12.119038+05:30",
     "time": "01:01 AM IST"
-  },
-  {
-    "id": 1790883046,
-    "title": "Crompton AQNova BLDC Chimney",
-    "description": "The Crompton AQNova BLDC Chimney is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0G65X9Z7Z?tag=assudeal-21",
-    "date": "2026-10-02T01:00:46.886405+05:30",
-    "time": "01:00 AM IST"
   }
 ]
