@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791021264,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0C3RFT4WV?tag=assudeal-21",
+    "date": "2026-10-03T15:24:24.089943+05:30",
+    "time": "03:24 PM IST"
+  },
+  {
     "id": 1791020647,
     "title": "Amazon Deal",
     "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0FCSGSSSB?tag=assudeal-21",
     "date": "2026-10-01T23:13:10.923870+05:30",
     "time": "11:13 PM IST"
-  },
-  {
-    "id": 1790876538,
-    "title": "Dove Butter Body Wash 1L",
-    "description": "The Dove Butter Body Wash 1L is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0BHV82T31?tag=assudeal-21",
-    "date": "2026-10-01T23:12:18.938005+05:30",
-    "time": "11:12 PM IST"
   }
 ]
