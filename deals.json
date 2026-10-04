@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791094670,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0CHS75QYV?tag=assudeal-21",
+    "date": "2026-10-04T11:47:50.604303+05:30",
+    "time": "11:47 AM IST"
+  },
+  {
     "id": 1791091707,
     "title": "Women’s Sweatshirt",
     "description": "This Women’s Sweatshirt combines style and comfort for everyday wear. See size options and customer photos on Amazon.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0H4ZWC2BC?tag=assudeal-21",
     "date": "2026-10-02T14:54:01.853770+05:30",
     "time": "02:54 PM IST"
-  },
-  {
-    "id": 1790931877,
-    "title": "Reebok Women Training Bra .",
-    "description": "The Reebok Women Training Bra . is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B094RHJCL7?tag=assudeal-21",
-    "date": "2026-10-02T14:34:37.097293+05:30",
-    "time": "02:34 PM IST"
   }
 ]
