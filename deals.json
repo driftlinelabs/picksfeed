@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791125790,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0F5WWQL8N?tag=assudeal-21",
+    "date": "2026-10-04T20:26:30.563577+05:30",
+    "time": "08:26 PM IST"
+  },
+  {
     "id": 1791125096,
     "title": "Acer Wired Keyboard & Mouse Combo",
     "description": "The Acer Wired Keyboard & Mouse Combo is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B00JS3PICK?tag=assudeal-21",
     "date": "2026-10-02T20:21:18.805709+05:30",
     "time": "08:21 PM IST"
-  },
-  {
-    "id": 1790952329,
-    "title": "Flix Neckband",
-    "description": "The Flix Neckband is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0DNZNWJWF?tag=assudeal-21",
-    "date": "2026-10-02T20:15:29.188877+05:30",
-    "time": "08:15 PM IST"
   }
 ]
