@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791130338,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B07Y8SV1LM?tag=assudeal-21",
+    "date": "2026-10-04T21:42:18.146549+05:30",
+    "time": "09:42 PM IST"
+  },
+  {
     "id": 1791128700,
     "title": "Lakme Glycolic Illuminate Serum, 30ml .",
     "description": "The Lakme Glycolic Illuminate Serum, 30ml . delivers effective care suitable for Indian skin types. Check ingredients and reviews on Amazon India.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0BSLMPQ8R?tag=assudeal-21",
     "date": "2026-10-02T21:02:26.710571+05:30",
     "time": "09:02 PM IST"
-  },
-  {
-    "id": 1790954795,
-    "title": ": Bajaj Almond Body Lotion 400ml .",
-    "description": "The : Bajaj Almond Body Lotion 400ml . delivers effective care suitable for Indian skin types. Check ingredients and reviews on Amazon India.",
-    "image": null,
-    "rating": null,
-    "category": "Beauty",
-    "link": "https://www.amazon.in/dp/B0CC9KFR26?tag=assudeal-21",
-    "date": "2026-10-02T20:56:35.743604+05:30",
-    "time": "08:56 PM IST"
   }
 ]
