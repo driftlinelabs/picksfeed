@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791181603,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0B4FDGL9J?tag=assudeal-21",
+    "date": "2026-10-05T11:56:43.876319+05:30",
+    "time": "11:56 AM IST"
+  },
+  {
     "id": 1791179195,
     "title": "Ant Esports GM700 Wireless Gaming Mouse",
     "description": "Designed for performance, the Ant Esports GM700 Wireless Gaming Mouse is ideal for fitness enthusiasts. See full specs on Amazon India.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0FCLTFBZP?tag=assudeal-21",
     "date": "2026-10-03T09:04:30.148504+05:30",
     "time": "09:04 AM IST"
-  },
-  {
-    "id": 1790997603,
-    "title": "Dove Daily Shine Conditioner|| 335 ml",
-    "description": "The Dove Daily Shine Conditioner|| 335 ml is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": "https://m.media-amazon.com/images/I/31eqLgXnLsL.jpg",
-    "rating": 4.3,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B08D16ZXZQ?tag=assudeal-21",
-    "date": "2026-10-03T08:50:03.010185+05:30",
-    "time": "08:50 AM IST"
   }
 ]
