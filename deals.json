@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791205114,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0DCK7QKW5?tag=assudeal-21",
+    "date": "2026-10-05T18:28:34.164514+05:30",
+    "time": "06:28 PM IST"
+  },
+  {
     "id": 1791204936,
     "title": "Ant MASTER15 Wired Keyboard and Mouse Combo, 104-Key Full-Size Silent Membrane USB Keyboard &amp; 1000 DPI High-Precision Optical Mouse for Laptop/PC, Ergonomic Lightweight Design, Plug &amp; Play – Black",
     "description": "The Ant MASTER15 Wired Keyboard and Mouse Combo, 104-Key Full-Size Silent Membrane USB Keyboard &amp; 1000 DPI High-Precision Optical Mouse for Laptop/PC, Ergonomic Lightweight Design, Plug &amp; Play – Black is a reliable choice packed with features for Indian consumers. Check full specs and reviews on Amazon India.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0FY5QH8T5?tag=assudeal-21",
     "date": "2026-10-03T16:32:55.984826+05:30",
     "time": "04:32 PM IST"
-  },
-  {
-    "id": 1791022324,
-    "title": "Philips 9 Watt LED Bulb(Pack of 6)",
-    "description": "The Philips 9 Watt LED Bulb(Pack of 6) is a reliable choice packed with features for Indian consumers. Check full specs and reviews on Amazon India.",
-    "image": null,
-    "rating": null,
-    "category": "Electronics",
-    "link": "https://www.amazon.in/dp/B09RQLDGJN?tag=assudeal-21",
-    "date": "2026-10-03T15:42:04.806191+05:30",
-    "time": "03:42 PM IST"
   }
 ]
