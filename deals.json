@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791207103,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0FDWVFHQW?tag=assudeal-21",
+    "date": "2026-10-05T19:01:43.151605+05:30",
+    "time": "07:01 PM IST"
+  },
+  {
     "id": 1791206624,
     "title": "Wonderchef Electric Kettle 1.5 L",
     "description": "The Wonderchef Electric Kettle 1.5 L is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0GP6VJMVD?tag=assudeal-21",
     "date": "2026-10-03T21:12:31.630019+05:30",
     "time": "09:12 PM IST"
-  },
-  {
-    "id": 1791041909,
-    "title": "Kuthampully Kerala Kasavu Saree Cotton",
-    "description": "This Kuthampully Kerala Kasavu Saree Cotton combines style and comfort for everyday wear. See size options and customer photos on Amazon.",
-    "image": null,
-    "rating": null,
-    "category": "Fashion",
-    "link": "https://www.amazon.in/dp/B09P4R1TGV?tag=assudeal-21",
-    "date": "2026-10-03T21:08:29.891671+05:30",
-    "time": "09:08 PM IST"
   }
 ]
