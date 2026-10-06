@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791299111,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0FHWS3JTJ?tag=assudeal-21",
+    "date": "2026-10-06T20:35:11.053165+05:30",
+    "time": "08:35 PM IST"
+  },
+  {
     "id": 1791298935,
     "title": "Amazon Deal",
     "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0CB32Y895?tag=assudeal-21",
     "date": "2026-10-05T09:27:21.296484+05:30",
     "time": "09:27 AM IST"
-  },
-  {
-    "id": 1791170856,
-    "title": "Puma Men Unleash Sneaker",
-    "description": "The Puma Men Unleash Sneaker is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": "https://m.media-amazon.com/images/I/41W4B637csL.jpg",
-    "rating": 3.7,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0BLNSDK3W?tag=assudeal-21",
-    "date": "2026-10-05T08:57:36.423171+05:30",
-    "time": "08:57 AM IST"
   }
 ]
