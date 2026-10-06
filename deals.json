@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791312969,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0BN9X55HB?tag=assudeal-21",
+    "date": "2026-10-07T00:26:09.178802+05:30",
+    "time": "12:26 AM IST"
+  },
+  {
     "id": 1791312885,
     "title": "Solimo Stainless Steel Bottles (Set Of 3) .",
     "description": "The Solimo Stainless Steel Bottles (Set Of 3) . is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0CWSB5B17?tag=assudeal-21",
     "date": "2026-10-05T13:08:15.503934+05:30",
     "time": "01:08 PM IST"
-  },
-  {
-    "id": 1791184274,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B016C4ZFCU?tag=assudeal-21",
-    "date": "2026-10-05T12:41:14.861723+05:30",
-    "time": "12:41 PM IST"
   }
 ]
