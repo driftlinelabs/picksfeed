@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791297020,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0D1XKG59W?tag=assudeal-21",
+    "date": "2026-10-06T20:00:20.953179+05:30",
+    "time": "08:00 PM IST"
+  },
+  {
     "id": 1791295368,
     "title": "Pigeon Oven Toaster Grill 14 Liters OTG",
     "description": "The Pigeon Oven Toaster Grill 14 Liters OTG is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0FN7VZVP2?tag=assudeal-21",
     "date": "2026-10-05T08:23:34.711498+05:30",
     "time": "08:23 AM IST"
-  },
-  {
-    "id": 1791167851,
-    "title": "Bajaj Frore Neo Table Fan 400 MM",
-    "description": "The Bajaj Frore Neo Table Fan 400 MM is a reliable choice packed with features for Indian consumers. Check full specs and reviews on Amazon India.",
-    "image": null,
-    "rating": null,
-    "category": "Electronics",
-    "link": "https://www.amazon.in/dp/B0C85RG8HG?tag=assudeal-21",
-    "date": "2026-10-05T08:07:31.411980+05:30",
-    "time": "08:07 AM IST"
   }
 ]
