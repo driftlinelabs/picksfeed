@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791281280,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0G6KSR5T5?tag=assudeal-21",
+    "date": "2026-10-06T15:38:00.975497+05:30",
+    "time": "03:38 PM IST"
+  },
+  {
     "id": 1791280356,
     "title": "Daawat Rozana Gold Basmati Rice 5Kg",
     "description": "The Daawat Rozana Gold Basmati Rice 5Kg is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0F5WWQL8N?tag=assudeal-21",
     "date": "2026-10-04T20:26:30.563577+05:30",
     "time": "08:26 PM IST"
-  },
-  {
-    "id": 1791125096,
-    "title": "Acer Wired Keyboard & Mouse Combo",
-    "description": "The Acer Wired Keyboard & Mouse Combo is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0FCS5V5V1?tag=assudeal-21",
-    "date": "2026-10-04T20:14:56.060469+05:30",
-    "time": "08:14 PM IST"
   }
 ]
