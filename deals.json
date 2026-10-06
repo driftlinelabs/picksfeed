@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791302417,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0FJ79C5VL?tag=assudeal-21",
+    "date": "2026-10-06T21:30:17.978653+05:30",
+    "time": "09:30 PM IST"
+  },
+  {
     "id": 1791300557,
     "title": "Bajaj 1200mm BLDC Remote Fan",
     "description": "The Bajaj 1200mm BLDC Remote Fan is a reliable choice packed with features for Indian consumers. Check full specs and reviews on Amazon India.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0F4R4BG5G?tag=assudeal-21",
     "date": "2026-10-05T10:09:32.826144+05:30",
     "time": "10:09 AM IST"
-  },
-  {
-    "id": 1791174263,
-    "title": "KOTTY Womens Satin Sleeveless Solid Top",
-    "description": "The KOTTY Womens Satin Sleeveless Solid Top is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0CJ6SLSV8?tag=assudeal-21",
-    "date": "2026-10-05T09:54:23.429280+05:30",
-    "time": "09:54 AM IST"
   }
 ]
