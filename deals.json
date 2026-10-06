@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791302615,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0CKL31L7Z?tag=assudeal-21",
+    "date": "2026-10-06T21:33:35.493884+05:30",
+    "time": "09:33 PM IST"
+  },
+  {
     "id": 1791302417,
     "title": "Amazon Deal",
     "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0FYGSLVRW?tag=assudeal-21",
     "date": "2026-10-05T10:34:28.231489+05:30",
     "time": "10:34 AM IST"
-  },
-  {
-    "id": 1791175172,
-    "title": "Dabur Red Gel Ayurvedic Toothpaste - 600g (150g x 4)",
-    "description": "The Dabur Red Gel Ayurvedic Toothpaste - 600g (150g x 4) is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0F4R4BG5G?tag=assudeal-21",
-    "date": "2026-10-05T10:09:32.826144+05:30",
-    "time": "10:09 AM IST"
   }
 ]
