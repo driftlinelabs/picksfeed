@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791304982,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0D54BS4HP?tag=assudeal-21",
+    "date": "2026-10-06T22:13:02.785926+05:30",
+    "time": "10:13 PM IST"
+  },
+  {
     "id": 1791304274,
     "title": "Amazon Deal",
     "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0BVZ8SSZL?tag=assudeal-21",
     "date": "2026-10-05T11:14:43.160788+05:30",
     "time": "11:14 AM IST"
-  },
-  {
-    "id": 1791178589,
-    "title": "adidas Mens Infynyte Run M Casual Shoes",
-    "description": "This adidas Mens Infynyte Run M Casual Shoes combines style and comfort for everyday wear. See size options and customer photos on Amazon.",
-    "image": null,
-    "rating": null,
-    "category": "Fashion",
-    "link": "https://www.amazon.in/dp/B0FN7VK63K?tag=assudeal-21",
-    "date": "2026-10-05T11:06:29.313418+05:30",
-    "time": "11:06 AM IST"
   }
 ]
