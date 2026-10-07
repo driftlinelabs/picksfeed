@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791404159,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0CX995RSM?tag=assudeal-21",
+    "date": "2026-10-08T01:45:59.930901+05:30",
+    "time": "01:45 AM IST"
+  },
+  {
     "id": 1791404107,
     "title": "EcoLink AiroMax BLDC 1200mm Ceiling Fan .",
     "description": "The EcoLink AiroMax BLDC 1200mm Ceiling Fan . is a reliable choice packed with features for Indian consumers. Check full specs and reviews on Amazon India.",
@@ -1086,17 +1097,6 @@
     "category": "Electronics",
     "link": "https://www.amazon.in/dp/B0DGJ7TGDR?tag=assudeal-21",
     "date": "2026-10-08T00:02:28.229043+05:30",
-    "time": "12:02 AM IST"
-  },
-  {
-    "id": 1791397939,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0HLSQ8V61?tag=assudeal-21",
-    "date": "2026-10-08T00:02:19.493406+05:30",
     "time": "12:02 AM IST"
   }
 ]
