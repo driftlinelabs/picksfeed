@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791378786,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0C4LFT38F?tag=assudeal-21",
+    "date": "2026-10-07T18:43:06.120973+05:30",
+    "time": "06:43 PM IST"
+  },
+  {
     "id": 1791378600,
     "title": "Amazon Deal",
     "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0DLBH7CCG?tag=assudeal-21",
     "date": "2026-10-06T19:32:48.394045+05:30",
     "time": "07:32 PM IST"
-  },
-  {
-    "id": 1791294244,
-    "title": "Samsung Galaxy S25 Ultra 5G AI Smartphone (Titanium Silverblue, 12GB RAM, 256GB Storage), 200MP Camera, 5000mAh Ultra Long Battery, QHD+ Dynamic AMOLED 2X, Galaxy AI, Knox Security, S Pen Included",
-    "description": "The Samsung Galaxy S25 Ultra 5G AI Smartphone (Titanium Silverblue, 12GB RAM, 256GB Storage), 200MP Camera, 5000mAh Ultra Long Battery, QHD+ Dynamic AMOLED 2X, Galaxy AI, Knox Security, S Pen Included is a reliable choice packed with features for Indian consumers. Check full specs and reviews on Amazon India.",
-    "image": "https://m.media-amazon.com/images/I/41PcPnHf4xL.jpg",
-    "rating": 5.0,
-    "category": "Electronics",
-    "link": "https://www.amazon.in/dp/B0DSKNKCYX?tag=assudeal-21",
-    "date": "2026-10-06T19:14:04.293963+05:30",
-    "time": "07:14 PM IST"
   }
 ]
