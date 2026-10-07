@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791404266,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0DWXMXXPN?tag=assudeal-21",
+    "date": "2026-10-08T01:47:46.373985+05:30",
+    "time": "01:47 AM IST"
+  },
+  {
     "id": 1791404213,
     "title": "Apply  Off Coupon",
     "description": "The Apply  Off Coupon is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1086,17 +1097,6 @@
     "category": "General",
     "link": "https://www.amazon.in/dp/B0GVPPXDKZ?tag=assudeal-21",
     "date": "2026-10-08T00:03:56.673778+05:30",
-    "time": "12:03 AM IST"
-  },
-  {
-    "id": 1791398006,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0CGPZTC8C?tag=assudeal-21",
-    "date": "2026-10-08T00:03:26.463219+05:30",
     "time": "12:03 AM IST"
   }
 ]
