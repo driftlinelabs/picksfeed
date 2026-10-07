@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791354962,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0C5CZFKR7?tag=assudeal-21",
+    "date": "2026-10-07T12:06:02.530535+05:30",
+    "time": "12:06 PM IST"
+  },
+  {
     "id": 1791354697,
     "title": "Scotch-Brite Kitchen Gloves + Sponge .",
     "description": "Upgrade your home with the Scotch-Brite Kitchen Gloves + Sponge ., designed for functionality and modern aesthetics. View all features on Amazon India.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0HGML2Y57?tag=assudeal-21",
     "date": "2026-10-06T00:22:20.933019+05:30",
     "time": "12:22 AM IST"
-  },
-  {
-    "id": 1791221695,
-    "title": ": Dabur Vatika Ayurvedic Shampoo 1 L .",
-    "description": "The : Dabur Vatika Ayurvedic Shampoo 1 L . delivers effective care suitable for Indian skin types. Check ingredients and reviews on Amazon India.",
-    "image": null,
-    "rating": null,
-    "category": "Beauty",
-    "link": "https://www.amazon.in/dp/B0DJBV4BCP?tag=assudeal-21",
-    "date": "2026-10-05T23:04:55.205434+05:30",
-    "time": "11:04 PM IST"
   }
 ]
