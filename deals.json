@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791355099,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0DJR4FJZ4?tag=assudeal-21",
+    "date": "2026-10-07T12:08:19.245360+05:30",
+    "time": "12:08 PM IST"
+  },
+  {
     "id": 1791355061,
     "title": "Big Loot Samsung",
     "description": "The Big Loot Samsung is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0GGBPN5VP?tag=assudeal-21",
     "date": "2026-10-06T07:49:24.133845+05:30",
     "time": "07:49 AM IST"
-  },
-  {
-    "id": 1791248540,
-    "title": "Xiaomi 43 inch Smart TV - with 4K Ultra HD *",
-    "description": "The Xiaomi 43 inch Smart TV - with 4K Ultra HD * is a reliable choice packed with features for Indian consumers. Check full specs and reviews on Amazon India.",
-    "image": null,
-    "rating": null,
-    "category": "Electronics",
-    "link": "https://www.amazon.in/dp/B0F6ZLFNVT?tag=assudeal-21",
-    "date": "2026-10-06T06:32:20.856056+05:30",
-    "time": "06:32 AM IST"
   }
 ]
