@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791396933,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0CKZ64WT6?tag=assudeal-21",
+    "date": "2026-10-07T23:45:33.894709+05:30",
+    "time": "11:45 PM IST"
+  },
+  {
     "id": 1791395729,
     "title": "Reebok Men&#39;s Slides EVA Cushioned Lightweight Comfortable Slippers for Men | Cushion Sole Chappal | Daily Use, Home &amp; Travel | AG Sole Slide",
     "description": "The Reebok Men&#39;s Slides EVA Cushioned Lightweight Comfortable Slippers for Men | Cushion Sole Chappal | Daily Use, Home &amp; Travel | AG Sole Slide is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0BZW772SG?tag=assudeal-21",
     "date": "2026-10-07T12:07:41.758683+05:30",
     "time": "12:07 PM IST"
-  },
-  {
-    "id": 1791354993,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0DCW64ZYK?tag=assudeal-21",
-    "date": "2026-10-07T12:06:33.427413+05:30",
-    "time": "12:06 PM IST"
   }
 ]
