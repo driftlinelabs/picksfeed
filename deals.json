@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791399636,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0CNKLKKSX?tag=assudeal-21",
+    "date": "2026-10-08T00:30:36.937914+05:30",
+    "time": "12:30 AM IST"
+  },
+  {
     "id": 1791399551,
     "title": "Michael Kors Panorama Gold Automatic Stainless Steel Watch .",
     "description": "This Michael Kors Panorama Gold Automatic Stainless Steel Watch . combines style and comfort for everyday wear. See size options and customer photos on Amazon.",
@@ -1086,17 +1097,6 @@
     "category": "General",
     "link": "https://www.amazon.in/dp/B0CHBGWCQ5?tag=assudeal-21",
     "date": "2026-10-07T19:08:39.301201+05:30",
-    "time": "07:08 PM IST"
-  },
-  {
-    "id": 1791380308,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0B65PZW8F?tag=assudeal-21",
-    "date": "2026-10-07T19:08:28.869840+05:30",
     "time": "07:08 PM IST"
   }
 ]
