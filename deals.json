@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791400749,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0CK2FX9TM?tag=assudeal-21",
+    "date": "2026-10-08T00:49:09.853503+05:30",
+    "time": "12:49 AM IST"
+  },
+  {
     "id": 1791400723,
     "title": "Payment with SBI Card And Looto",
     "description": "The Payment with SBI Card And Looto is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0D37NWGSS?tag=assudeal-21",
     "date": "2026-10-07T21:28:44.523654+05:30",
     "time": "09:28 PM IST"
-  },
-  {
-    "id": 1791388549,
-    "title": "Mrp error",
-    "description": "The Mrp error is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0GY1CN1TN?tag=assudeal-21",
-    "date": "2026-10-07T21:25:49.185791+05:30",
-    "time": "09:25 PM IST"
   }
 ]
