@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791358301,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0DCGD56PH?tag=assudeal-21",
+    "date": "2026-10-07T13:01:41.233615+05:30",
+    "time": "01:01 PM IST"
+  },
+  {
     "id": 1791358145,
     "title": "boAt Stone Arc Pro 25W Bluetooth Speaker",
     "description": "The boAt Stone Arc Pro 25W Bluetooth Speaker is a reliable choice packed with features for Indian consumers. Check full specs and reviews on Amazon India.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0FYQ8725L?tag=assudeal-21",
     "date": "2026-10-06T11:25:20.586997+05:30",
     "time": "11:25 AM IST"
-  },
-  {
-    "id": 1791265204,
-    "title": "Janasya Women's Kurta Set",
-    "description": "This Janasya Women's Kurta Set combines style and comfort for everyday wear. See size options and customer photos on Amazon.",
-    "image": null,
-    "rating": null,
-    "category": "Fashion",
-    "link": "https://www.amazon.in/dp/B0FQPGRKJB?tag=assudeal-21",
-    "date": "2026-10-06T11:10:04.860608+05:30",
-    "time": "11:10 AM IST"
   }
 ]
