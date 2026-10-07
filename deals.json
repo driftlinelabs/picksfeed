@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791398006,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0CGPZTC8C?tag=assudeal-21",
+    "date": "2026-10-08T00:03:26.463219+05:30",
+    "time": "12:03 AM IST"
+  },
+  {
     "id": 1791397948,
     "title": "Apple iPhone 16 128 GB",
     "description": "The Apple iPhone 16 128 GB is a reliable choice packed with features for Indian consumers. Check full specs and reviews on Amazon India.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0C77HBQTB?tag=assudeal-21",
     "date": "2026-10-07T12:24:44.851943+05:30",
     "time": "12:24 PM IST"
-  },
-  {
-    "id": 1791355988,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0CVL7XZX9?tag=assudeal-21",
-    "date": "2026-10-07T12:23:08.408288+05:30",
-    "time": "12:23 PM IST"
   }
 ]
