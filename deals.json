@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791350669,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0GVT4MCT5?tag=assudeal-21",
+    "date": "2026-10-07T10:54:29.968441+05:30",
+    "time": "10:54 AM IST"
+  },
+  {
     "id": 1791350656,
     "title": "Garnier Bright Complete Face Wash, 100g",
     "description": "The Garnier Bright Complete Face Wash, 100g delivers effective care suitable for Indian skin types. Check ingredients and reviews on Amazon India.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0GJDVGS6P?tag=assudeal-21",
     "date": "2026-10-05T20:17:31.219787+05:30",
     "time": "08:17 PM IST"
-  },
-  {
-    "id": 1791211482,
-    "title": "TCL 1 Ton 3 Star Split Inverter AC *",
-    "description": "The TCL 1 Ton 3 Star Split Inverter AC * is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0H3Q4C918?tag=assudeal-21",
-    "date": "2026-10-05T20:14:42.317842+05:30",
-    "time": "08:14 PM IST"
   }
 ]
