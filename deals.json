@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791405001,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B01DE733LS?tag=assudeal-21",
+    "date": "2026-10-08T02:00:01.100110+05:30",
+    "time": "02:00 AM IST"
+  },
+  {
     "id": 1791404994,
     "title": "Apple MacBook Neo 13  Effectively With SBI CC",
     "description": "The Apple MacBook Neo 13  Effectively With SBI CC is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0DSWNBVCH?tag=assudeal-21",
     "date": "2026-10-08T00:10:04.700212+05:30",
     "time": "12:10 AM IST"
-  },
-  {
-    "id": 1791398392,
-    "title": "Khadims mens Dress Sandal",
-    "description": "This Khadims mens Dress Sandal combines style and comfort for everyday wear. See size options and customer photos on Amazon.",
-    "image": "https://m.media-amazon.com/images/I/41ef5jaTEWL.jpg",
-    "rating": 3.9,
-    "category": "Fashion",
-    "link": "https://www.amazon.in/dp/B08HS5RWY5?tag=assudeal-21",
-    "date": "2026-10-08T00:09:52.197409+05:30",
-    "time": "12:09 AM IST"
   }
 ]
