@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791349990,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0GQVC8MPD?tag=assudeal-21",
+    "date": "2026-10-07T10:43:10.593047+05:30",
+    "time": "10:43 AM IST"
+  },
+  {
     "id": 1791349051,
     "title": "Livon Professional Hydrating Serum for Women &amp; Men | With Keratin, Hyaluronic &amp; Olive Oil | For Stronger, Hydrated &amp; Frizz-free Hair | No Paraben, Sulphate or Mineral Oil | All Hair Types | 100ml",
     "description": "The Livon Professional Hydrating Serum for Women &amp; Men | With Keratin, Hyaluronic &amp; Olive Oil | For Stronger, Hydrated &amp; Frizz-free Hair | No Paraben, Sulphate or Mineral Oil | All Hair Types | 100ml delivers effective care suitable for Indian skin types. Check ingredients and reviews on Amazon India.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0DT12WTYJ?tag=assudeal-21",
     "date": "2026-10-05T19:36:43.397101+05:30",
     "time": "07:36 PM IST"
-  },
-  {
-    "id": 1791207511,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0BR5J92KX?tag=assudeal-21",
-    "date": "2026-10-05T19:08:31.179315+05:30",
-    "time": "07:08 PM IST"
   }
 ]
