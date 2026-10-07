@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791355278,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B082VG8CCX?tag=assudeal-21",
+    "date": "2026-10-07T12:11:18.469358+05:30",
+    "time": "12:11 PM IST"
+  },
+  {
     "id": 1791355175,
     "title": "Amazon Deal",
     "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B083LJGP9M?tag=assudeal-21",
     "date": "2026-10-06T08:43:39.817916+05:30",
     "time": "08:43 AM IST"
-  },
-  {
-    "id": 1791255354,
-    "title": "Polycab 1200mm BLDC Ceiling Fan",
-    "description": "The Polycab 1200mm BLDC Ceiling Fan is a reliable choice packed with features for Indian consumers. Check full specs and reviews on Amazon India.",
-    "image": null,
-    "rating": null,
-    "category": "Electronics",
-    "link": "https://www.amazon.in/dp/B0FQJRNJB2?tag=assudeal-21",
-    "date": "2026-10-06T08:25:54.557777+05:30",
-    "time": "08:25 AM IST"
   }
 ]
