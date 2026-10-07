@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791403107,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0DC6XS21V?tag=assudeal-21",
+    "date": "2026-10-08T01:28:27.113026+05:30",
+    "time": "01:28 AM IST"
+  },
+  {
     "id": 1791403097,
     "title": "MSI MAG 276CXF 27 Inch FHD Curved Gaming Monitor .",
     "description": "The MSI MAG 276CXF 27 Inch FHD Curved Gaming Monitor . is a reliable choice packed with features for Indian consumers. Check full specs and reviews on Amazon India.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0F8JJ7QP3?tag=assudeal-21",
     "date": "2026-10-07T23:25:29.164478+05:30",
     "time": "11:25 PM IST"
-  },
-  {
-    "id": 1791395360,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B08382WWKK?tag=assudeal-21",
-    "date": "2026-10-07T23:19:20.415898+05:30",
-    "time": "11:19 PM IST"
   }
 ]
