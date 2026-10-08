@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791467024,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B01DLTWVX0?tag=assudeal-21",
+    "date": "2026-10-08T19:13:44.344264+05:30",
+    "time": "07:13 PM IST"
+  },
+  {
     "id": 1791466779,
     "title": "Apply 3% coupon",
     "description": "The Apply 3% coupon is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0GRCVWGFR?tag=assudeal-21",
     "date": "2026-10-08T10:59:59.073604+05:30",
     "time": "10:59 AM IST"
-  },
-  {
-    "id": 1791437272,
-    "title": "Puma Men's Princeps Sneaker .",
-    "description": "The Puma Men's Princeps Sneaker . is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0CLY1KLHC?tag=assudeal-21",
-    "date": "2026-10-08T10:57:52.449816+05:30",
-    "time": "10:57 AM IST"
   }
 ]
