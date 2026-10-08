@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791453495,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0GSJYR54M?tag=assudeal-21",
+    "date": "2026-10-08T15:28:15.504620+05:30",
+    "time": "03:28 PM IST"
+  },
+  {
     "id": 1791453378,
     "title": "Uno Minda S21076-000M00 Pws- Main-Innova, Old, 2005-15 For Toyota Innova(Old)(2005-15)",
     "description": "The Uno Minda S21076-000M00 Pws- Main-Innova, Old, 2005-15 For Toyota Innova(Old)(2005-15) is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0CTKN2TFK?tag=assudeal-21",
     "date": "2026-10-08T09:05:58.841793+05:30",
     "time": "09:05 AM IST"
-  },
-  {
-    "id": 1791430470,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0D95XPFMQ?tag=assudeal-21",
-    "date": "2026-10-08T09:04:30.213463+05:30",
-    "time": "09:04 AM IST"
   }
 ]
