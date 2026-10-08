@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791473914,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0BR3XRNHV?tag=assudeal-21",
+    "date": "2026-10-08T21:08:34.402043+05:30",
+    "time": "09:08 PM IST"
+  },
+  {
     "id": 1791473884,
     "title": "Apply Coupon",
     "description": "The Apply Coupon is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0BYLK9PZC?tag=assudeal-21",
     "date": "2026-10-08T12:25:13.330419+05:30",
     "time": "12:25 PM IST"
-  },
-  {
-    "id": 1791442412,
-    "title": "HP Victus 15 Intel Core i5 Laptop .",
-    "description": "The HP Victus 15 Intel Core i5 Laptop . is a reliable choice packed with features for Indian consumers. Check full specs and reviews on Amazon India.",
-    "image": null,
-    "rating": null,
-    "category": "Electronics",
-    "link": "https://www.amazon.in/dp/B0HK7QBFYM?tag=assudeal-21",
-    "date": "2026-10-08T12:23:32.681115+05:30",
-    "time": "12:23 PM IST"
   }
 ]
