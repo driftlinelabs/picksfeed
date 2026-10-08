@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791458549,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0F3DJD1L3?tag=assudeal-21",
+    "date": "2026-10-08T16:52:29.878227+05:30",
+    "time": "04:52 PM IST"
+  },
+  {
     "id": 1791457457,
     "title": "Beardo Beard Shaping Gel, (200ml)",
     "description": "The Beardo Beard Shaping Gel, (200ml) is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0B7X23NWH?tag=assudeal-21",
     "date": "2026-10-08T09:15:37.507924+05:30",
     "time": "09:15 AM IST"
-  },
-  {
-    "id": 1791431090,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0BRKCS1CD?tag=assudeal-21",
-    "date": "2026-10-08T09:14:50.402043+05:30",
-    "time": "09:14 AM IST"
   }
 ]
