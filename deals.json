@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791435448,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B09JFNNK9F?tag=assudeal-21",
+    "date": "2026-10-08T10:27:28.636085+05:30",
+    "time": "10:27 AM IST"
+  },
+  {
     "id": 1791434619,
     "title": ": PUMA unisex-baby Track Suit",
     "description": "The : PUMA unisex-baby Track Suit is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0HGML2Y57?tag=assudeal-21",
     "date": "2026-10-08T00:58:42.398791+05:30",
     "time": "12:58 AM IST"
-  },
-  {
-    "id": 1791401249,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0GVB2LG7M?tag=assudeal-21",
-    "date": "2026-10-08T00:57:29.198436+05:30",
-    "time": "12:57 AM IST"
   }
 ]
