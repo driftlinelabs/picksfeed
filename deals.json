@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791479547,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B08X3KG1T9?tag=assudeal-21",
+    "date": "2026-10-08T22:42:27.303960+05:30",
+    "time": "10:42 PM IST"
+  },
+  {
     "id": 1791479388,
     "title": "Zebronics Wireless Keyboard & Mouse Combo",
     "description": "The Zebronics Wireless Keyboard & Mouse Combo is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0D8QJGJ4N?tag=assudeal-21",
     "date": "2026-10-08T14:15:44.926597+05:30",
     "time": "02:15 PM IST"
-  },
-  {
-    "id": 1791448926,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B08BVK156S?tag=assudeal-21",
-    "date": "2026-10-08T14:12:06.999632+05:30",
-    "time": "02:12 PM IST"
   }
 ]
