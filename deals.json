@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791430470,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0D95XPFMQ?tag=assudeal-21",
+    "date": "2026-10-08T09:04:30.213463+05:30",
+    "time": "09:04 AM IST"
+  },
+  {
     "id": 1791430397,
     "title": "Men Sweatshirt",
     "description": "This Men Sweatshirt combines style and comfort for everyday wear. See size options and customer photos on Amazon.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0GVJ3WB54?tag=assudeal-21",
     "date": "2026-10-08T00:34:19.228988+05:30",
     "time": "12:34 AM IST"
-  },
-  {
-    "id": 1791399794,
-    "title": "Loot : IFB 241L 10 in 1 Convertible Double Door Refrigerator *",
-    "description": "The Loot : IFB 241L 10 in 1 Convertible Double Door Refrigerator * is a reliable choice packed with features for Indian consumers. Check full specs and reviews on Amazon India.",
-    "image": null,
-    "rating": null,
-    "category": "Electronics",
-    "link": "https://www.amazon.in/dp/B0GXJWFR48?tag=assudeal-21",
-    "date": "2026-10-08T00:33:14.511575+05:30",
-    "time": "12:33 AM IST"
   }
 ]
