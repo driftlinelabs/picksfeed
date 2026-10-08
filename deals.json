@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791430679,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0D95TGBRV?tag=assudeal-21",
+    "date": "2026-10-08T09:07:59.284507+05:30",
+    "time": "09:07 AM IST"
+  },
+  {
     "id": 1791430623,
     "title": "HP LaserJet Pro P1108 Plus  Using SBI",
     "description": "The HP LaserJet Pro P1108 Plus  Using SBI is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0H4RB95LC?tag=assudeal-21",
     "date": "2026-10-08T00:36:17.175032+05:30",
     "time": "12:36 AM IST"
-  },
-  {
-    "id": 1791399941,
-    "title": "HP 15, (i3 14th Gen) Intel Core 3 100U (8GB DDR5, 512GB SSD) Laptop",
-    "description": "The HP 15, (i3 14th Gen) Intel Core 3 100U (8GB DDR5, 512GB SSD) Laptop is a reliable choice packed with features for Indian consumers. Check full specs and reviews on Amazon India.",
-    "image": null,
-    "rating": null,
-    "category": "Electronics",
-    "link": "https://www.amazon.in/dp/B0D2642MBF?tag=assudeal-21",
-    "date": "2026-10-08T00:35:41.854606+05:30",
-    "time": "12:35 AM IST"
   }
 ]
