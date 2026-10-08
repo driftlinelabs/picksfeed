@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791449452,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0CSX8PS2M?tag=assudeal-21",
+    "date": "2026-10-08T14:20:52.161621+05:30",
+    "time": "02:20 PM IST"
+  },
+  {
     "id": 1791449144,
     "title": "Amazon Deal",
     "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0FL6ZSKFR?tag=assudeal-21",
     "date": "2026-10-08T07:46:53.844629+05:30",
     "time": "07:46 AM IST"
-  },
-  {
-    "id": 1791425437,
-    "title": "American Tourister Luggage 55cm",
-    "description": "The American Tourister Luggage 55cm is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0GPQN65Z5?tag=assudeal-21",
-    "date": "2026-10-08T07:40:37.909157+05:30",
-    "time": "07:40 AM IST"
   }
 ]
