@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791476323,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0DB82PJFR?tag=assudeal-21",
+    "date": "2026-10-08T21:48:43.071012+05:30",
+    "time": "09:48 PM IST"
+  },
+  {
     "id": 1791476204,
     "title": "Womens jacket % off 489",
     "description": "The Womens jacket % off 489 is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0FDKP5T7X?tag=assudeal-21",
     "date": "2026-10-08T13:41:54.626673+05:30",
     "time": "01:41 PM IST"
-  },
-  {
-    "id": 1791446954,
-    "title": "Woodland Men's Sneaker",
-    "description": "The Woodland Men's Sneaker is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0F633BRSD?tag=assudeal-21",
-    "date": "2026-10-08T13:39:14.180818+05:30",
-    "time": "01:39 PM IST"
   }
 ]
