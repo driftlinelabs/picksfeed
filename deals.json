@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791431767,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0FBG3DXCF?tag=assudeal-21",
+    "date": "2026-10-08T09:26:07.665486+05:30",
+    "time": "09:26 AM IST"
+  },
+  {
     "id": 1791431411,
     "title": "Women Sweatshirt",
     "description": "This Women Sweatshirt combines style and comfort for everyday wear. See size options and customer photos on Amazon.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0CK2FX9TM?tag=assudeal-21",
     "date": "2026-10-08T00:49:09.853503+05:30",
     "time": "12:49 AM IST"
-  },
-  {
-    "id": 1791400723,
-    "title": "Payment with SBI Card And Looto",
-    "description": "The Payment with SBI Card And Looto is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0GYDH8JG3?tag=assudeal-21",
-    "date": "2026-10-08T00:48:43.452097+05:30",
-    "time": "12:48 AM IST"
   }
 ]
