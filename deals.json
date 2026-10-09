@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791513815,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0CHY7S1HC?tag=assudeal-21",
+    "date": "2026-10-09T08:13:35.077743+05:30",
+    "time": "08:13 AM IST"
+  },
+  {
     "id": 1791513451,
     "title": ": Park Avenue Grooming Kit .",
     "description": "The : Park Avenue Grooming Kit . is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0GD4T3FZG?tag=assudeal-21",
     "date": "2026-10-08T17:15:41.951267+05:30",
     "time": "05:15 PM IST"
-  },
-  {
-    "id": 1791459832,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0H8S7Y357?tag=assudeal-21",
-    "date": "2026-10-08T17:13:52.870873+05:30",
-    "time": "05:13 PM IST"
   }
 ]
