@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791531952,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B09DH7MXYW?tag=assudeal-21",
+    "date": "2026-10-09T13:15:52.109758+05:30",
+    "time": "01:15 PM IST"
+  },
+  {
     "id": 1791531946,
     "title": "Amazon Deal",
     "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0G1MYB7SX?tag=assudeal-21",
     "date": "2026-10-08T20:16:10.263887+05:30",
     "time": "08:16 PM IST"
-  },
-  {
-    "id": 1791470489,
-    "title": "vivo S2 5G (Silk White, 8GB RAM, 128GB Storage)",
-    "description": "The vivo S2 5G (Silk White, 8GB RAM, 128GB Storage) is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0H99SS8B2?tag=assudeal-21",
-    "date": "2026-10-08T20:11:29.616687+05:30",
-    "time": "08:11 PM IST"
   }
 ]
