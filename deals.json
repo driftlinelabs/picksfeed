@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791542153,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0HG97GN9R?tag=assudeal-21",
+    "date": "2026-10-09T16:05:53.732417+05:30",
+    "time": "04:05 PM IST"
+  },
+  {
     "id": 1791541959,
     "title": "Safari Set of 3 Trolley Bags .",
     "description": "This Safari Set of 3 Trolley Bags . combines style and comfort for everyday wear. See size options and customer photos on Amazon.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B018HSHIJM?tag=assudeal-21",
     "date": "2026-10-08T22:34:56.827196+05:30",
     "time": "10:34 PM IST"
-  },
-  {
-    "id": 1791478580,
-    "title": "Badminton Kit",
-    "description": "The Badminton Kit is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B08KV4NC5H?tag=assudeal-21",
-    "date": "2026-10-08T22:26:20.969046+05:30",
-    "time": "10:26 PM IST"
   }
 ]
