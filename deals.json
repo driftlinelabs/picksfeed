@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791533545,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0DGG3Y18F?tag=assudeal-21",
+    "date": "2026-10-09T13:42:25.403870+05:30",
+    "time": "01:42 PM IST"
+  },
+  {
     "id": 1791533437,
     "title": "GRAB : Orient Electric LED Bulb.",
     "description": "The GRAB : Orient Electric LED Bulb. is a reliable choice packed with features for Indian consumers. Check full specs and reviews on Amazon India.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0BN6698HZ?tag=assudeal-21",
     "date": "2026-10-08T20:43:11.107241+05:30",
     "time": "08:43 PM IST"
-  },
-  {
-    "id": 1791472314,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0FQNR672L?tag=assudeal-21",
-    "date": "2026-10-08T20:41:54.559262+05:30",
-    "time": "08:41 PM IST"
   }
 ]
