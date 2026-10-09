@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791562441,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0HG96D5Z7?tag=assudeal-21",
+    "date": "2026-10-09T21:44:01.346509+05:30",
+    "time": "09:44 PM IST"
+  },
+  {
     "id": 1791561703,
     "title": "Amazon Deal",
     "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0CQRCV6HL?tag=assudeal-21",
     "date": "2026-10-09T07:57:25.441141+05:30",
     "time": "07:57 AM IST"
-  },
-  {
-    "id": 1791512209,
-    "title": "Xiaomi 55 inch 4K QLED 34W Smart TV",
-    "description": "The Xiaomi 55 inch 4K QLED 34W Smart TV is a reliable choice packed with features for Indian consumers. Check full specs and reviews on Amazon India.",
-    "image": null,
-    "rating": null,
-    "category": "Electronics",
-    "link": "https://www.amazon.in/dp/B0F3JL33DW?tag=assudeal-21",
-    "date": "2026-10-09T07:46:49.326716+05:30",
-    "time": "07:46 AM IST"
   }
 ]
