@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791608173,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0DY7ZL2SD?tag=assudeal-21",
+    "date": "2026-10-10T10:26:13.795825+05:30",
+    "time": "10:26 AM IST"
+  },
+  {
     "id": 1791606236,
     "title": "Hero Xtreme 160R Bike",
     "description": "The Hero Xtreme 160R Bike is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0DPCFJYJB?tag=assudeal-21",
     "date": "2026-10-09T15:58:14.215176+05:30",
     "time": "03:58 PM IST"
-  },
-  {
-    "id": 1791541630,
-    "title": "Remote Control Car Toy",
-    "description": "The Remote Control Car Toy is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0H3Q4QN9Y?tag=assudeal-21",
-    "date": "2026-10-09T15:57:10.452138+05:30",
-    "time": "03:57 PM IST"
   }
 ]
