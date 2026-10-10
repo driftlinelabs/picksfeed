@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791608266,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0DY7ZL2SD?tag=assudeal-21",
+    "date": "2026-10-10T10:27:46.459274+05:30",
+    "time": "10:27 AM IST"
+  },
+  {
     "id": 1791608173,
     "title": "Amazon Deal",
     "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0F67KYF8J?tag=assudeal-21",
     "date": "2026-10-09T16:02:39.310891+05:30",
     "time": "04:02 PM IST"
-  },
-  {
-    "id": 1791541694,
-    "title": "BataWomen's Ballerina Shoes",
-    "description": "This BataWomen's Ballerina Shoes combines style and comfort for everyday wear. See size options and customer photos on Amazon.",
-    "image": null,
-    "rating": null,
-    "category": "Fashion",
-    "link": "https://www.amazon.in/dp/B0DPCFJYJB?tag=assudeal-21",
-    "date": "2026-10-09T15:58:14.215176+05:30",
-    "time": "03:58 PM IST"
   }
 ]
