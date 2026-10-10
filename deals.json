@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791621840,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0991SH2Q4?tag=assudeal-21",
+    "date": "2026-10-10T14:14:00.293653+05:30",
+    "time": "02:14 PM IST"
+  },
+  {
     "id": 1791621821,
     "title": "Fiama Gel Bar (125g Pack of 8)",
     "description": "The Fiama Gel Bar (125g Pack of 8) is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0C4PZM2YP?tag=assudeal-21",
     "date": "2026-10-09T19:30:08.606625+05:30",
     "time": "07:30 PM IST"
-  },
-  {
-    "id": 1791554263,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B097K9XR9C?tag=assudeal-21",
-    "date": "2026-10-09T19:27:43.377610+05:30",
-    "time": "07:27 PM IST"
   }
 ]
