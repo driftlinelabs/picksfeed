@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791596438,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0B591M2JK?tag=assudeal-21",
+    "date": "2026-10-10T07:10:38.819433+05:30",
+    "time": "07:10 AM IST"
+  },
+  {
     "id": 1791596224,
     "title": "Amazon Deal",
     "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0BQC6B15R?tag=assudeal-21",
     "date": "2026-10-09T11:26:41.085840+05:30",
     "time": "11:26 AM IST"
-  },
-  {
-    "id": 1791525142,
-    "title": "Tommy Hilfiger Gym Bag",
-    "description": "This Tommy Hilfiger Gym Bag combines style and comfort for everyday wear. See size options and customer photos on Amazon.",
-    "image": null,
-    "rating": null,
-    "category": "Fashion",
-    "link": "https://www.amazon.in/dp/B0DPKKSTY9?tag=assudeal-21",
-    "date": "2026-10-09T11:22:22.198560+05:30",
-    "time": "11:22 AM IST"
   }
 ]
