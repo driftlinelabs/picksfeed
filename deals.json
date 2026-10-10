@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791614901,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B09715SN64?tag=assudeal-21",
+    "date": "2026-10-10T12:18:21.772962+05:30",
+    "time": "12:18 PM IST"
+  },
+  {
     "id": 1791614116,
     "title": "Amazon Deal",
     "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0H5VY9NVC?tag=assudeal-21",
     "date": "2026-10-09T17:05:57.961671+05:30",
     "time": "05:05 PM IST"
-  },
-  {
-    "id": 1791544219,
-    "title": "Lenovo 100Hz 27-inch QHD Monitor  Using SBI",
-    "description": "The Lenovo 100Hz 27-inch QHD Monitor  Using SBI is a reliable choice packed with features for Indian consumers. Check full specs and reviews on Amazon India.",
-    "image": null,
-    "rating": null,
-    "category": "Electronics",
-    "link": "https://www.amazon.in/dp/B0DKFDM413?tag=assudeal-21",
-    "date": "2026-10-09T16:40:19.346550+05:30",
-    "time": "04:40 PM IST"
   }
 ]
