@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791597357,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B09CH8X3TT?tag=assudeal-21",
+    "date": "2026-10-10T07:25:57.243126+05:30",
+    "time": "07:25 AM IST"
+  },
+  {
     "id": 1791597080,
     "title": "Amazon Deal",
     "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B09DH7MXYW?tag=assudeal-21",
     "date": "2026-10-09T13:15:46.633127+05:30",
     "time": "01:15 PM IST"
-  },
-  {
-    "id": 1791531460,
-    "title": "TVS Silk Route Open Face Helmet .",
-    "description": "The TVS Silk Route Open Face Helmet . is a reliable choice packed with features for Indian consumers. Check full specs and reviews on Amazon India.",
-    "image": null,
-    "rating": null,
-    "category": "Electronics",
-    "link": "https://www.amazon.in/dp/B0H3PC8R69?tag=assudeal-21",
-    "date": "2026-10-09T13:07:40.793109+05:30",
-    "time": "01:07 PM IST"
   }
 ]
