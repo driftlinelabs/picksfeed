@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791602933,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0GC54GBWJ?tag=assudeal-21",
+    "date": "2026-10-10T08:58:53.570318+05:30",
+    "time": "08:58 AM IST"
+  },
+  {
     "id": 1791602475,
     "title": ": Lakme Absol perfect Radiance Serum 15ml",
     "description": "The : Lakme Absol perfect Radiance Serum 15ml delivers effective care suitable for Indian skin types. Check ingredients and reviews on Amazon India.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0D92GG4G6?tag=assudeal-21",
     "date": "2026-10-09T15:12:41.935278+05:30",
     "time": "03:12 PM IST"
-  },
-  {
-    "id": 1791538898,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0GZV9JDBR?tag=assudeal-21",
-    "date": "2026-10-09T15:11:38.689142+05:30",
-    "time": "03:11 PM IST"
   }
 ]
