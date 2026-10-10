@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791620012,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0DMVTBYBJ?tag=assudeal-21",
+    "date": "2026-10-10T13:43:32.507073+05:30",
+    "time": "01:43 PM IST"
+  },
+  {
     "id": 1791618829,
     "title": "NIVEA MEN Deep Impact Freshness Underarm Roll On Deodorant for Men with Black Carbon | Long Lasting Antiperspirant Roll On for Body Odour Control | Alcohol Free Underarm Deodorant Roll On 50ml",
     "description": "The NIVEA MEN Deep Impact Freshness Underarm Roll On Deodorant for Men with Black Carbon | Long Lasting Antiperspirant Roll On for Body Odour Control | Alcohol Free Underarm Deodorant Roll On 50ml is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B09ZHV4R95?tag=assudeal-21",
     "date": "2026-10-09T18:57:36.080849+05:30",
     "time": "06:57 PM IST"
-  },
-  {
-    "id": 1791552366,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": "https://m.media-amazon.com/images/I/41y7OKi78mL.jpg",
-    "rating": 4.3,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0F5BQN6GS?tag=assudeal-21",
-    "date": "2026-10-09T18:56:06.912843+05:30",
-    "time": "06:56 PM IST"
   }
 ]
