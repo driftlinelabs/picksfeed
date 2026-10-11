@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791744628,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0CV12LJKC?tag=assudeal-21",
+    "date": "2026-10-12T00:20:28.226374+05:30",
+    "time": "12:20 AM IST"
+  },
+  {
     "id": 1791744132,
     "title": "Fair and Handsome Instant Radiance Face Wash",
     "description": "The Fair and Handsome Instant Radiance Face Wash delivers effective care suitable for Indian skin types. Check ingredients and reviews on Amazon India.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B08ZZW5HDJ?tag=assudeal-21",
     "date": "2026-10-11T00:59:17.569966+05:30",
     "time": "12:59 AM IST"
-  },
-  {
-    "id": 1791660519,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0F5WR2D2H?tag=assudeal-21",
-    "date": "2026-10-11T00:58:39.149675+05:30",
-    "time": "12:58 AM IST"
   }
 ]
