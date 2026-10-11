@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791744953,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0CZT4GBX5?tag=assudeal-21",
+    "date": "2026-10-12T00:25:53.061699+05:30",
+    "time": "12:25 AM IST"
+  },
+  {
     "id": 1791744773,
     "title": "Amazon Deal",
     "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B08PQ6VWPT?tag=assudeal-21",
     "date": "2026-10-11T07:16:20.724018+05:30",
     "time": "07:16 AM IST"
-  },
-  {
-    "id": 1791681431,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B08PQ6VWPT?tag=assudeal-21",
-    "date": "2026-10-11T06:47:11.157551+05:30",
-    "time": "06:47 AM IST"
   }
 ]
