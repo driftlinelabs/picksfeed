@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791729738,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0G44KMTJN?tag=assudeal-21",
+    "date": "2026-10-11T20:12:18.325236+05:30",
+    "time": "08:12 PM IST"
+  },
+  {
     "id": 1791729659,
     "title": "Amazon Deal",
     "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0FHVCQW5K?tag=assudeal-21",
     "date": "2026-10-10T22:29:50.732338+05:30",
     "time": "10:29 PM IST"
-  },
-  {
-    "id": 1791650604,
-    "title": "IFB 222L 4 Star Advanced Inverter Refrigerator",
-    "description": "The IFB 222L 4 Star Advanced Inverter Refrigerator is a reliable choice packed with features for Indian consumers. Check full specs and reviews on Amazon India.",
-    "image": null,
-    "rating": null,
-    "category": "Electronics",
-    "link": "https://www.amazon.in/dp/B0GYFYMLFX?tag=assudeal-21",
-    "date": "2026-10-10T22:13:24.462390+05:30",
-    "time": "10:13 PM IST"
   }
 ]
