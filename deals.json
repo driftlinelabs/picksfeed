@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791703668,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0FFHCZPWC?tag=assudeal-21",
+    "date": "2026-10-11T12:57:48.244896+05:30",
+    "time": "12:57 PM IST"
+  },
+  {
     "id": 1791703237,
     "title": "Gold Loot | Lower Than Market Price",
     "description": "The Gold Loot | Lower Than Market Price is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0BRQGXT2N?tag=assudeal-21",
     "date": "2026-10-10T14:45:00.002002+05:30",
     "time": "02:45 PM IST"
-  },
-  {
-    "id": 1791622833,
-    "title": "Xiaomi (43\") QLED Ultra HD 4K Smart Fire TV",
-    "description": "The Xiaomi (43\") QLED Ultra HD 4K Smart Fire TV is a reliable choice packed with features for Indian consumers. Check full specs and reviews on Amazon India.",
-    "image": null,
-    "rating": null,
-    "category": "Electronics",
-    "link": "https://www.amazon.in/dp/B0F3JKY28G?tag=assudeal-21",
-    "date": "2026-10-10T14:30:33.990688+05:30",
-    "time": "02:30 PM IST"
   }
 ]
