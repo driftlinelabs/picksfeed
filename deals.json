@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791745049,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0DQ8FSVKL?tag=assudeal-21",
+    "date": "2026-10-12T00:27:29.590852+05:30",
+    "time": "12:27 AM IST"
+  },
+  {
     "id": 1791744953,
     "title": "Amazon Deal",
     "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0GSF5CZLF?tag=assudeal-21",
     "date": "2026-10-11T07:24:26.810285+05:30",
     "time": "07:24 AM IST"
-  },
-  {
-    "id": 1791683180,
-    "title": "POND'S Pure Detox Face Wash 200 g",
-    "description": "The POND'S Pure Detox Face Wash 200 g delivers effective care suitable for Indian skin types. Check ingredients and reviews on Amazon India.",
-    "image": null,
-    "rating": null,
-    "category": "Beauty",
-    "link": "https://www.amazon.in/dp/B08PQ6VWPT?tag=assudeal-21",
-    "date": "2026-10-11T07:16:20.724018+05:30",
-    "time": "07:16 AM IST"
   }
 ]
