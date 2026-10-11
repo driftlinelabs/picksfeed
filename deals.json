@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791745266,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": "https://m.media-amazon.com/images/I/516Ca1x0LGL.jpg",
+    "rating": 3.7,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0CCYPZGK3?tag=assudeal-21",
+    "date": "2026-10-12T00:31:06.206280+05:30",
+    "time": "12:31 AM IST"
+  },
+  {
     "id": 1791745180,
     "title": "1100W Dry Iron .",
     "description": "The 1100W Dry Iron . is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B07V24YX62?tag=assudeal-21",
     "date": "2026-10-11T08:06:57.723972+05:30",
     "time": "08:06 AM IST"
-  },
-  {
-    "id": 1791685177,
-    "title": "MILTON Hexa Airtight Containers Set Of 18 .",
-    "description": "The MILTON Hexa Airtight Containers Set Of 18 . is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0CB49ZY5T?tag=assudeal-21",
-    "date": "2026-10-11T07:49:37.030985+05:30",
-    "time": "07:49 AM IST"
   }
 ]
