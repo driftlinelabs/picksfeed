@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791778644,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0CVMWYPM1?tag=assudeal-21",
+    "date": "2026-10-12T09:47:24.965136+05:30",
+    "time": "09:47 AM IST"
+  },
+  {
     "id": 1791778479,
     "title": "PUMA Men Underwear",
     "description": "The PUMA Men Underwear is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B08645RXJ6?tag=assudeal-21",
     "date": "2026-10-11T12:13:50.286020+05:30",
     "time": "12:13 PM IST"
-  },
-  {
-    "id": 1791700494,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B01N286YMM?tag=assudeal-21",
-    "date": "2026-10-11T12:04:54.805557+05:30",
-    "time": "12:04 PM IST"
   }
 ]
