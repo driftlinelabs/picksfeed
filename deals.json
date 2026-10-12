@@ -1,5 +1,16 @@
 [
   {
+    "id": 1791777186,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B00LO7WHM2?tag=assudeal-21",
+    "date": "2026-10-12T09:23:06.597953+05:30",
+    "time": "09:23 AM IST"
+  },
+  {
     "id": 1791776679,
     "title": "Axe Signature Champion No Gas Body Deodorant Bodyspray for Men 154 ml",
     "description": "The Axe Signature Champion No Gas Body Deodorant Bodyspray for Men 154 ml is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0GGHLBJL3?tag=assudeal-21",
     "date": "2026-10-11T11:21:17.117836+05:30",
     "time": "11:21 AM IST"
-  },
-  {
-    "id": 1791697691,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0CMTQBNQT?tag=assudeal-21",
-    "date": "2026-10-11T11:18:11.785645+05:30",
-    "time": "11:18 AM IST"
   }
 ]
