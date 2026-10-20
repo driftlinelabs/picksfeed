@@ -1,5 +1,16 @@
 [
   {
+    "id": 1792503568,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0GQGHY1QV?tag=assudeal-21",
+    "date": "2026-10-20T19:09:28.866799+05:30",
+    "time": "07:09 PM IST"
+  },
+  {
     "id": 1792502919,
     "title": "U.S. POLO ASSN. Men's Regular fit Printed Cotton Casual Shirts (USSHTFX182_Blue_39)",
     "description": "This U.S. POLO ASSN. Men's Regular fit Printed Cotton Casual Shirts (USSHTFX182_Blue_39) combines style and comfort for everyday wear. See size options and customer photos on Amazon.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B07TMHV3FY?tag=assudeal-21",
     "date": "2026-10-19T09:33:45.987109+05:30",
     "time": "09:33 AM IST"
-  },
-  {
-    "id": 1792382348,
-    "title": "Tata Tea Premium | Desh Ki Chai | Unique Blend Crafted For Chai Lovers Across India | Black Tea | 1.5kg",
-    "description": "The Tata Tea Premium | Desh Ki Chai | Unique Blend Crafted For Chai Lovers Across India | Black Tea | 1.5kg is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": "https://m.media-amazon.com/images/I/41wospnFmoL._SL500_.jpg",
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B08H654828?tag=assudeal-21",
-    "date": "2026-10-19T09:29:08.057384+05:30",
-    "time": "09:29 AM IST"
   }
 ]
