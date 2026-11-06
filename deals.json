@@ -1,5 +1,16 @@
 [
   {
+    "id": 1793941014,
+    "title": "Amazon Deal",
+    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
+    "image": null,
+    "rating": null,
+    "category": "General",
+    "link": "https://www.amazon.in/dp/B0D7PXK8TY?tag=assudeal-21",
+    "date": "2026-11-06T10:26:54.070327+05:30",
+    "time": "10:26 AM IST"
+  },
+  {
     "id": 1793940820,
     "title": "Spotzero By Milton Non-Scratch Wire Dish Cloth (Pack of 10) | Multipurpose Scrubber for Kitchen Utensils, Sinks, Counter & More I Wet and Dry Cleaning for Kitchen & Home",
     "description": "Upgrade your home with the Spotzero By Milton Non-Scratch Wire Dish Cloth (Pack of 10) | Multipurpose Scrubber for Kitchen Utensils, Sinks, Counter & More I Wet and Dry Cleaning for Kitchen & Home, designed for functionality and modern aesthetics. View all features on Amazon India.",
@@ -1087,16 +1098,5 @@
     "link": "https://www.amazon.in/dp/B0F389QTNV?tag=assudeal-21",
     "date": "2026-11-04T15:26:21.446054+05:30",
     "time": "03:26 PM IST"
-  },
-  {
-    "id": 1793785134,
-    "title": "Amazon Deal",
-    "description": "The Amazon Deal is a top-rated pick on Amazon India. Check complete details and genuine reviews before purchasing.",
-    "image": null,
-    "rating": null,
-    "category": "General",
-    "link": "https://www.amazon.in/dp/B0D7PXK8TY?tag=assudeal-21",
-    "date": "2026-11-04T15:08:54.086167+05:30",
-    "time": "03:08 PM IST"
   }
 ]
